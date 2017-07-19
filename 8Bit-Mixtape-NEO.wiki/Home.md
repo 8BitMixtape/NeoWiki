@@ -1,4 +1,4 @@
-# 8Bit Mixtape NEO
+[](4_7 MYOB---Make-Your-Own-Board.md)# 8Bit Mixtape NEO
 
 Welcome to the 8Bit Mixtape NEO wiki!
 
@@ -12,17 +12,11 @@ See more [on](http://hackteria.org/wiki/G%C3%A4r_L%C3%A4mpli#diy-CAD_.7C_A_Creat
 
 # See all details in the Chapters of this wiki
 
-* [1 Overview](1-Overview)
-
-* [2 Boards](2-Boards)
-
-* [3 Dev Zone](3-Developer-Zone)
-
-* [4 Make Your Own Board](4-MYOB---Make-Your-Own-Board)
-
-* [5 History of the Coconut](5-History-of-the-Coconut)
-
-* [X Acknowledgements](X-Acknowledgements)
+* [Getting-Started](1-Getting-Started)
+* [Boards](2 Boards)
+* [Developer Zone](4-Developer-Zone)
+* [History of the Coconut](5 History of the Coconut)
+* [Acknowledgements](X Acknowledgements)
 
 # What is it?
 
