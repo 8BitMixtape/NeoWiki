@@ -25,6 +25,7 @@
   - [4.6 Real Time Communication](4_6-Real-Time-Communication.md)
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
   - [4.8 Docs](4_8 Docs.md)
+  - [4.9 Changelog](4_9 Changelog.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5 History of the Coconut.md)
 - Home:
