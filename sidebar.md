@@ -7,7 +7,7 @@
   - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
   - [2.2 Micro Coconut NEO](2_2-Micro-Coconut-NEO.md)
   - [2.3 Protoypes](2_3 Protoypes.md)
-  - [2.4 Shenzhen Ready (Made.in.Taiwan)](2_4-Shenzhen-Ready-(Made_in_Taiwan).md)
+  - [2.4 Shenzhen Ready Made.in.Taiwan](2_4-Shenzhen-Ready-Made_in_Taiwan.md)
   - [2.5 DIMI 8](2_5 DIMI-8.md)
   - [2.6 8Bit NEO Euro Rack](2_6 8Bit NEO Euro-Rack.md)
   - [2.7 Hinterhof Synthies](2_7-Hinterhof-Synthies.md)
