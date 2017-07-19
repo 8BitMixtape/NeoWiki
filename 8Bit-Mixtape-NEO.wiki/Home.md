@@ -14,7 +14,7 @@ See more [on](http://hackteria.org/wiki/G%C3%A4r_L%C3%A4mpli#diy-CAD_.7C_A_Creat
 
 * [1 Overview](1-Overview)
 
-* [2 Boards](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/2-Boards)
+* [2 Boards](2-Boards)
 
 * [3 Dev Zone](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/3-Developer-Zone)
 
