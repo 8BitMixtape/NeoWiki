@@ -1,5 +1,3 @@
-under construction
-
 ## Command line hex2wav uploader
 
 Command line program written in c++ used for uploading program to TinyAudioBoot
@@ -13,4 +11,8 @@ Javascript library for interacting with [TinyAudioBoot](https://github.com/ATtin
 Library: [https://github.com/AttinyTeenageRiot/hex2wavjs](https://github.com/AttinyTeenageRiot/hex2wavjs)
 
 Demo: [http://attinyteenageriot.github.io/hex2wavjs/](http://attinyteenageriot.github.io/hex2wavjs/)
+
+
+
+sip
 
