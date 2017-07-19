@@ -1,6 +1,4 @@
-[](4_7 MYOB---Make-Your-Own-Board.md)# 8Bit Mixtape NEO
-
-Welcome to the 8Bit Mixtape NEO wiki!
+# Welcome to the 8Bit Mixtape NEO wiki!
 
 ![](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/boards/NEO_overview_boards.jpg)
 
