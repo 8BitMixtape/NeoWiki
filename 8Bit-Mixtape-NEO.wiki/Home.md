@@ -12,7 +12,7 @@ See more [on](http://hackteria.org/wiki/G%C3%A4r_L%C3%A4mpli#diy-CAD_.7C_A_Creat
 
 # See all details in the Chapters of this wiki
 
-* [1 Overview](/1-Overview)
+* [1 Overview](1-Overview)
 
 * [2 Boards](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/2-Boards)
 
