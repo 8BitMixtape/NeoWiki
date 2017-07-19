@@ -24,6 +24,7 @@
   - [4.5 Testing the prototypes](4_5-Testing-the-prototypes.md)
   - [4.6 Real Time Communication](4_6-Real-Time-Communication.md)
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
+  - [4.8 Docs](4_8 Docs.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5 History of the Coconut.md)
 - Home:
