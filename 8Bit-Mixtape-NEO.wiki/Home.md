@@ -16,13 +16,13 @@ See more [on](http://hackteria.org/wiki/G%C3%A4r_L%C3%A4mpli#diy-CAD_.7C_A_Creat
 
 * [2 Boards](2-Boards)
 
-* [3 Dev Zone](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/3-Developer-Zone)
+* [3 Dev Zone](3-Developer-Zone)
 
-* [4 Make Your Own Board](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/4-MYOB---Make-Your-Own-Board)
+* [4 Make Your Own Board](4-MYOB---Make-Your-Own-Board)
 
-* [5 History of the Coconut](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/5-History-of-the-Coconut)
+* [5 History of the Coconut](5-History-of-the-Coconut)
 
-* [X Acknowledgements](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/X-Acknowledgements)
+* [X Acknowledgements](X-Acknowledgements)
 
 # What is it?
 
