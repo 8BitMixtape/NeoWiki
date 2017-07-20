@@ -24,8 +24,6 @@ Now a new package is available in your menu to choose board **"8BitMixtapeNEO"**
 
 It's working...! Just press the upload arrow. It will automatically compile and convert to .wav and play the file on your sound card.!
 
-
-
 ### Save the .wav in sketch folder
 
 In the menu "Sketch" choose -&gt; "Export compiled Binary.
