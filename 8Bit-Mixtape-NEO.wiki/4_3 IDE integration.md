@@ -1,4 +1,6 @@
-# Adding 8BitMixtape-NEO Board to the Arduino IDE
+# IDE Integration
+
+### Adding 8BitMixtape-NEO Board to the Arduino IDE
 
 Add this line to your **Additional Board Manager URLs** in the Preferences \(click on the little square on the right to open an editable list\):
 
