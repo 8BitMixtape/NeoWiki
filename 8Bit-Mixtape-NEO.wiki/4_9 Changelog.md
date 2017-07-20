@@ -9,6 +9,9 @@
 * Added eeprom support to bootloader and hex2wavjs [web interface](https://attinyteenageriot.github.io/hex2wavjs/eeprom.html) test 
 * Refactored [Hex2WavJS](https://github.com/AttinyTeenageRiot/hex2wavjs) code and become a library
 * Added neo lib to package
+* Notes: 
+  * Bootloader size increased a bit
+  * Todo: remove blink fast on error to decrease bootloader size
 
 ### Package version 0.0.8
 
