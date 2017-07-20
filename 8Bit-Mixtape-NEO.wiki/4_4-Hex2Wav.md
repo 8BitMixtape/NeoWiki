@@ -1,10 +1,10 @@
-## Command line hex2wav uploader
+## Command line Hex2Wav uploader
 
 Command line program written in c++ used for uploading program to TinyAudioBoot
 
 Source: [https://github.com/ATtinyTeenageRiot/hex2wav](https://github.com/ATtinyTeenageRiot/hex2wav)
 
-## Web interface and library hex2wavjs
+## Web interface and library Hex2WavJS
 
 Javascript library for interacting with [TinyAudioBoot](https://github.com/ATtinyTeenageRiot/TinyAudioBoot/) and [8BitMixtapeNEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
 
