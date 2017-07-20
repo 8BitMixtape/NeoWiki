@@ -1,5 +1,9 @@
 # Changelog
 
+### Package version 0.0.14
+
+* Added [WS2812\_light](https://github.com/cpldcpu/light_ws2812) library 
+
 ### Package version 0.0.13
 
 * Added eeprom support to bootloader and hex2wavjs [web interface](https://attinyteenageriot.github.io/hex2wavjs/eeprom.html) test 
