@@ -45,13 +45,13 @@ Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
 #### From Terminal
 
-**Burn fuses:**
+1. **Burn fuses:**
 
-`avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
+    `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
 
-**Flash Bootloader:**
+2. **Flash Bootloader:**
 
-`avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
+    `avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
 
 #### From Arduino IDE
 
