@@ -24,7 +24,7 @@
   - [4.5 Testing the prototypes](4_5-Testing-the-prototypes.md)
   - [4.6 Real Time Communication](4_6-Real-Time-Communication.md)
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
-  - [4.8 Continuous Integration](4_8 Continuous Integration.md)
+  - [4.8 Automated Build Script](4_8 Automated Build Script.md)
   - [4.9 Changelog](4_9 Changelog.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5 History of the Coconut.md)
