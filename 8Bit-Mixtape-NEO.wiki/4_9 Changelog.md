@@ -11,10 +11,11 @@
 
 This is based on the new port of [hex2wav to c++](4_4-Hex2Wav)
 
-You can click on Sketch -> Export compiled Library
+You can click on Sketch -&gt; Export compiled Library
 
 This will save the .wav file in your sketch-folder.
 
 #### Got it working !!! Thx Iyok!
 
 ![](images/instructions/hex2wav_IDE_integration_working_sn.jpg)
+
