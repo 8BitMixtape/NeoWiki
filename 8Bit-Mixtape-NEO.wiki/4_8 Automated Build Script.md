@@ -1,4 +1,4 @@
-# Docs
+# Automated Build Script
 
 ### Automated documentation builder
 
