@@ -28,7 +28,7 @@
   - [4.9 Changelog](4_9 Changelog.md)
   - [4.10 Todo](4_10 Todo.md)
 - 5 History of the Coconut:
-  - [5 History of the Coconut](5 History of the Coconut.md)
+  - [5 History of the Coconut](5-History-of-the-Coconut.md)
 - Home:
   - [Home](Home.md)
 - README:
