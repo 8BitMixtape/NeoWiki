@@ -1,6 +1,6 @@
 # Adding the Board to the Arduino IDE
 
-Add this line to your "**Additional Board Manager URLs**" in the Preferences \(click on the little square on the right to open an editable list\):
+Add this line to your **Additional Board Manager URLs** in the Preferences \(click on the little square on the right to open an editable list\):
 
 [http://8bitmixtape.github.io/package_8bitmixtape_index.json](http://8bitmixtape.github.io/package_8bitmixtape_index.json)
 
