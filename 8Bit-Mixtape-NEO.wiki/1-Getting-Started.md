@@ -31,7 +31,7 @@ Download this whole repository and find the path to the example codes: [https://
 
 ### Extra libraries needed
 
-See more on [https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/4\_1-Libraries](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/4_1-Libraries)
+See more on [Libraries](4_1 Libraries.md)
 
 ** 8Bit Mixtape Library \(under development\)**
 
