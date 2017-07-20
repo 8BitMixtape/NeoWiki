@@ -18,7 +18,6 @@
 - 4 Developer Zone:
   - [4 Developer Zone](4-Developer-Zone.md)
   - [4.1 Libraries](4_1 Libraries.md)
-  - [4.10 Todo](4_10 Todo.md)
   - [4.2 Schematics Discussion](4_2 Schematics-Discussion.md)
   - [4.3 IDE integration](4_3 IDE integration.md)
   - [4.4 Hex2Wav](4_4-Hex2Wav.md)
@@ -27,6 +26,7 @@
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
   - [4.8 Automated Build Script](4_8 Automated Build Script.md)
   - [4.9 Changelog](4_9 Changelog.md)
+  - [4.10 Todo](4_10 Todo.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5 History of the Coconut.md)
 - Home:
