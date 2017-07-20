@@ -20,14 +20,6 @@ Bootloader: **TinyAudioBoot Audio:PB3/PIN2 Led:PB1/PIN6**
 
 Core: **Arduino Core 16MHz \(PLL/NO.BOD\)**
 
-**TODO:**
-
-* rename the stuff to make it more easy to understand
-* remove unused stuff, when development is done
-* fix the correct memory size, so bootloader is not overwritten
-* add other Mixtapes: Berliner Schule \(Attiny84\), 8Bit Mixtape Classic \(Attiny85\)
-* ...
-
 ### Compile -&gt; Convert -&gt; Upload
 
 It's working...! Just press the upload arrow. It will automatically compile and convert to .wav and play the file on your sound card.
