@@ -34,4 +34,4 @@
 - README:
   - [README](README.md)
 - X Acknowledgements:
-  - [X Acknowledgements](X Acknowledgements.md)
+  - [X Acknowledgements](X-Acknowledgements.md)
