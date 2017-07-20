@@ -4,7 +4,7 @@
 
 Add this line to your **Additional Board Manager URLs** in the Preferences \(click on the little square on the right to open an editable list\):
 
-[http://8bitmixtape.github.io/package\_8bitmixtape\_index.json](http://8bitmixtape.github.io/package_8bitmixtape_index.json)
+> [http://8bitmixtape.github.io/package\_8bitmixtape\_index.json](http://8bitmixtape.github.io/package_8bitmixtape_index.json)
 
 ![](images/instructions/8BitMixtapePackage_add.jpg)
 
@@ -24,7 +24,7 @@ Now a new package is available in your menu to choose board **"8BitMixtapeNEO"**
 
 It's working...! Just press the upload arrow. It will automatically compile and convert to .wav and play the file on your sound card.!
 
-[](images/instructions/hex2wav_IDE_integration_working.jpg)
+
 
 ### Save the .wav in sketch folder
 
