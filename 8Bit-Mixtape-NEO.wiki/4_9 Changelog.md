@@ -9,7 +9,7 @@
 
 ![](images/photos/hex2wav_IDE_integrated_ascii.jpg)
 
-This is based on the new port of [hex2wav to c++](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/3_4-Hex2Wav)
+This is based on the new port of [hex2wav to c++](4_4-Hex2Wav)
 
 You can click on Sketch -> Export compiled Library
 
