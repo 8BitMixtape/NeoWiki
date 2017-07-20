@@ -55,5 +55,5 @@ Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
 #### From Arduino IDE
 
-Fixed, after version 0.0.10
+Tools > Burn Bootloader
 
