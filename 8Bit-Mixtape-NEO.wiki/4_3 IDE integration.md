@@ -1,18 +1,4 @@
-# New update 0.0.8
-
-![](images/photos/hex2wav_IDE_integrated_ascii.jpg)
-
-This is based on the new port of [hex2wav to c++](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/3_4-Hex2Wav)
-
-You can click on Sketch -> Export compiled Library
-
-This will save the .wav file in your sketch-folder.
-
-# Got it working !!! Thx Iyok!
-
-![](images/instructions/hex2wav_IDE_integration_working_sn.jpg)
-
-## Adding the Board to the Arduino IDE
+# Adding the Board to the Arduino IDE
 
 Add this line to your "**Additional Board Manager URLs**" in the Preferences \(click on the little square on the right to open an editable list\):
 
@@ -42,13 +28,13 @@ Core: **Arduino Core 16MHz \(PLL/NO.BOD\)**
 * add other Mixtapes: Berliner Schule \(Attiny84\), 8Bit Mixtape Classic \(Attiny85\)
 * ...
 
-## Compile -&gt; Convert -&gt; Upload
+### Compile -&gt; Convert -&gt; Upload
 
 It's working...! Just press the upload arrow. It will automatically compile and convert to .wav and play the file on your sound card.
 
 ![](images/instructions/hex2wav_IDE_integration_working.jpg)
 
-## Save the .wav in sketch folder
+### Save the .wav in sketch folder
 
 In the menu "Sketch" choose -&gt; "Export compiled Binary.
 
@@ -56,7 +42,7 @@ The .wav file will be saved in the same folder where your sketch .ino file is st
 
 * this maybe \(hopefully\) won't work on windows. But you also find the file in the /tmp/... folder somewhere. check the verbose output of your Arduino IDE.
 
-# Open Issues
+## Open Issues
 
 still some confusion about the timers, pre-scalers and the speeds...
 
