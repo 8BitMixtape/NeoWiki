@@ -1,11 +1,9 @@
 # Changelog
 
-### Package Version
-
-* ### 0.0.14
+* ### Package Version 0.0.14
   * Added [WS2812\_light](https://github.com/cpldcpu/light_ws2812) library 
 
-* ### 0.0.13
+* ### Package Version 0.0.13
 
   * Added eeprom support to bootloader and hex2wavjs [web interface](https://attinyteenageriot.github.io/hex2wavjs/eeprom.html) test 
   * Refactored [Hex2WavJS](https://github.com/AttinyTeenageRiot/hex2wavjs) code and become a library
@@ -14,7 +12,7 @@
     * Bootloader size increased a bit
     * Todo: remove blink fast on error to decrease bootloader size
 
-* ### 0.0.8
+* ### Package Version 0.0.8
 
 ![](images/photos/hex2wav_IDE_integrated_ascii.jpg)
 
