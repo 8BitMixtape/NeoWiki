@@ -2,7 +2,7 @@
 
 Add this line to your **Additional Board Manager URLs** in the Preferences \(click on the little square on the right to open an editable list\):
 
-[http://8bitmixtape.github.io/package_8bitmixtape_index.json](http://8bitmixtape.github.io/package_8bitmixtape_index.json)
+[http://8bitmixtape.github.io/package\_8bitmixtape\_index.json](http://8bitmixtape.github.io/package_8bitmixtape_index.json)
 
 ![](images/instructions/8BitMixtapePackage_add.jpg)
 
@@ -38,6 +38,9 @@ It's working...! Just press the upload arrow. It will automatically compile and 
 
 In the menu "Sketch" choose -&gt; "Export compiled Binary.
 
-The .wav file will be saved in the same folder where your sketch .ino file is stored, which is usually in your Sketchbook. This is mostly useful if you wanna share the .wav file to friends, put it on your website \(or on a cassette tape\) for others to upload directly to their tapes without re-compiling using this IDE or something. Anyway the .wav file is always saved in the /tmp/.. folder.
+The .wav file will be saved in the same folder where your sketch .ino file is stored, which is usually in your Sketchbook. This is mostly useful if you wanna share the .wav file to friends, put it on your website \(or on a cassette tape\) for others to upload directly to their tapes without re-compiling using this IDE or something.
 
-* this maybe \(hopefully\) won't work on windows. But you also find the file in the /tmp/... folder somewhere. check the verbose output of your Arduino IDE.
+
+
+
+
