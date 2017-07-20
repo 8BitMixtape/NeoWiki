@@ -2,7 +2,7 @@
 
 ### Package version 0.0.13
 
-* Added eeprom support to bootloader
+* Added eeprom support to bootloader and hex2wavjs [web interface](https://attinyteenageriot.github.io/hex2wavjs/eeprom.html) test 
 * Added neo lib to package
 
 ### Package version 0.0.8
