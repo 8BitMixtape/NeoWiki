@@ -3,7 +3,7 @@
   - [1.1 Workshops](1_1-Workshops.md)
   - [1.2 NeoCoco Workshop Zagreb](1_2-NeoCoco Workshop Zagreb.md)
 - 2 Boards:
-  - [2 Boards](2 Boards.md)
+  - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
   - [2.2 Micro Coconut NEO](2_2-Micro-Coconut-NEO.md)
   - [2.3 Protoypes](2_3 Protoypes.md)
