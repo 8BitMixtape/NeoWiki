@@ -41,10 +41,3 @@ In the menu "Sketch" choose -&gt; "Export compiled Binary.
 The .wav file will be saved in the same folder where your sketch .ino file is stored, which is usually in your Sketchbook. This is mostly useful if you wanna share the .wav file to friends, put it on your website \(or on a cassette tape\) for others to upload directly to their tapes without re-compiling using this IDE or something. Anyway the .wav file is always saved in the /tmp/.. folder.
 
 * this maybe \(hopefully\) won't work on windows. But you also find the file in the /tmp/... folder somewhere. check the verbose output of your Arduino IDE.
-
-## Open Issues
-
-still some confusion about the timers, pre-scalers and the speeds...
-
-[http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85](http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85)
-
