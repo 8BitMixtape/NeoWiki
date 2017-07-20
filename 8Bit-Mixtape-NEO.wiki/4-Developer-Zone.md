@@ -6,7 +6,7 @@
 * TRS or TRRS?
 * prize?
 
-http://www.mouser.tw/Search/ProductDetail.aspx?qs=WyjlAZoYn53r%252bAeL8NnrFw%3d%3d
+[http://www.mouser.tw/Search/ProductDetail.aspx?qs=WyjlAZoYn53r%2bAeL8NnrFw%3d%3d](http://www.mouser.tw/Search/ProductDetail.aspx?qs=WyjlAZoYn53r%2bAeL8NnrFw%3d%3d)
 
 ![](images/schematics/TRRS_plug_layout.jpg)
 
@@ -25,11 +25,5 @@ still some confusion about the timers, pre-scalers and the speeds...
 
 [http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85](http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85)
 
-## TODO:
 
-* rename the stuff to make it more easy to understand
-* remove unused stuff, when development is done
-* fix the correct memory size, so bootloader is not overwritten
-* add other Mixtapes: Berliner Schule \(Attiny84\), 8Bit Mixtape Classic \(Attiny85\)
-* ...
 
