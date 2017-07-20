@@ -13,7 +13,7 @@ See more [on](http://hackteria.org/wiki/G%C3%A4r_L%C3%A4mpli#diy-CAD_.7C_A_Creat
 * [Getting-Started](1-Getting-Started)
 * [Boards](2_Boards)
 * [Developer Zone](4-Developer-Zone)
-* [History of the Coconut](5 History of the Coconut)
+* [History of the Coconut](5-History-of-the-Coconut)
 * [Acknowledgements](X-Acknowledgements)
 
 # What is it?
