@@ -2,16 +2,16 @@
 
 ![](images/boards/Collage_boards.jpg)
 
-# Uploading new codes
+## Uploading new codes
 
 The key feature of the new 8Bit Mixtape is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone \(or walkman\).  
 A specific bootloader \([TinyAudioBoot](https://github.com/ChrisMicro/TinyAudioBoot)\) has to be installed on the chip to be able to do so. The bootloader is the first program that is started when you turn on your mixtape. you should see the right led blinking slowly. The bootloader is in waiting programmable mode for 5 seconds, and then starts the main program. If your board, doesnt blink for 5 seconds, maybe the bootloader has disappeared, see below for instructions on how to flash the bootloader \(using ISP-programming\).
 
-## Reset, play .wav -&gt; re-program your Mixtape
+### Reset, play .wav -&gt; re-program your Mixtape
 
 very very simple!
 
-## Play pre-compiled .wav files
+### Play pre-compiled .wav files
 
 ![](images/instructions/upload_from_website.jpg)
 
@@ -37,13 +37,13 @@ See more on [Libraries](4_1 Libraries.md)
 
 * **Adafruit library **[https://github.com/adafruit/Adafruit\_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 
-# Burning the Bootloader
+### Burning the Bootloader
 
 In case you use a fresh/new attiny, you need to upload the bootloader first, before being able to use it with the Audio-Programming.
 
 Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
-## From Terminal
+#### From Terminal
 
 **Burn fuses:**
 
@@ -53,7 +53,7 @@ Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
 `avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
 
-## From Arduino IDE
+#### From Arduino IDE
 
 Fixed, after version 0.0.10
 
