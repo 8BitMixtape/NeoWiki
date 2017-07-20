@@ -25,3 +25,11 @@ still some confusion about the timers, pre-scalers and the speeds...
 
 [http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85](http://www.re-innovation.co.uk/web12/index.php/en/blog-75/305-fast-pwm-on-attiny85)
 
+## TODO:
+
+* rename the stuff to make it more easy to understand
+* remove unused stuff, when development is done
+* fix the correct memory size, so bootloader is not overwritten
+* add other Mixtapes: Berliner Schule \(Attiny84\), 8Bit Mixtape Classic \(Attiny85\)
+* ...
+
