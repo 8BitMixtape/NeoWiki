@@ -12,6 +12,6 @@ Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?
 
 ## Credits
 
-* [Budi Prakosa](http://manticore.id) (AudioBoot Attiny85 port, Hex2Wav/JS)
-* [Chris Micro](https://github.com/ChrisMicro) (original AudioBoot code)
+* [Budi Prakosa](http://manticore.id) (initial TinyAudioBoot Attiny85, Hex2Wav/JS)
+* [Chris Micro](https://github.com/ChrisMicro) (original AudioBoot code, further TinyAudioBoot enhancement)
 * [Fredrik Olofsson](http://fredrikolofsson.com/) (HexParser code in javascript)
