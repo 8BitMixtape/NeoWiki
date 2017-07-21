@@ -2,7 +2,7 @@
 
 Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?f=4&t=127) enhanced with EEPROM write mode.
 
-## Feature
+## Features
 
 - Small bootloader size
 - EEPROM write mode for setting variables without reprogram the board
