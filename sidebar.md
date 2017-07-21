@@ -37,3 +37,5 @@
   - [README](README.md)
 - X Acknowledgements:
   - [X Acknowledgements](X-Acknowledgements.md)
+- sidebar:
+  - [sidebar](sidebar.md)
