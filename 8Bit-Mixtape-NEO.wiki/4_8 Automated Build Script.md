@@ -4,7 +4,7 @@
 
 * Auto update via webhook to hostgator using Docsify https://8bitmixtape.github.io/NeoWiki/\#/
 
-* Auto update via travis-ci using Gitbook https://8bitmixtape.github.io/NeoDocs/
+* Auto update via [Travis-CI](http://travis-ci.org/) using Gitbook https://8bitmixtape.github.io/NeoDocs/
 
 ### Package Builder
 
