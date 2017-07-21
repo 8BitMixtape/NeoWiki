@@ -7,7 +7,7 @@ Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?
 - Small bootloader size
 - EEPROM write mode for setting variables without reprogram the board
 - Webinterface with [Hex2WavJS](4_4.1-Hex2Wav.md), EEPROM write
-- Cross platform Hex2Wav command line interface
+- Cross platform [Hex2Wav](4_4.1-Hex2Wav.md) command line interface
 
 
 ## Credits
