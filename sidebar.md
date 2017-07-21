@@ -22,6 +22,7 @@
   - [4.3 IDE integration](4_3 IDE integration.md)
   - [4.4 TinyAudioBoot](4_4-TinyAudioBoot.md)
   - [4.4.1 Hex2Wav](4_4.1-Hex2Wav.md)
+  - [4.4.2 Hex2WavJS](4_4.2-Hex2WavJS.md)
   - [4.5 Testing the prototypes](4_5-Testing-the-prototypes.md)
   - [4.6 Real Time Communication](4_6-Real-Time-Communication.md)
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
