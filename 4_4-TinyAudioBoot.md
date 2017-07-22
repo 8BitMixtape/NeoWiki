@@ -10,6 +10,11 @@ Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?
 - Cross platform [Hex2Wav](4_4.1-Hex2Wav.md) command line interface
 
 
+## Projects using TinyAudioBoot
+
+- 8BitMixtape NEO
+- [Synsonique Drum](https://janostman.wordpress.com/2017/07/10/synsonique-drum/) 
+
 ## Credits
 
 * [Budi Prakosa](http://manticore.id) (initial TinyAudioBoot Attiny85, Hex2Wav/JS)
