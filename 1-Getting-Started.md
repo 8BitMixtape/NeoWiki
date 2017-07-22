@@ -1,4 +1,4 @@
-# Overview - 12
+# Overview
 
 ![](images/boards/Collage_boards.jpg)
 
@@ -7,8 +7,6 @@
 The key feature of the new 8Bit Mixtape is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone \(or walkman\).  
 A specific bootloader \([TinyAudioBoot](https://github.com/ChrisMicro/TinyAudioBoot)\) has to be installed on the chip to be able to do so. The bootloader is the first program that is started when you turn on your mixtape. you should see the right led blinking slowly. The bootloader is in waiting programmable mode for 5 seconds, and then starts the main program. If your board, doesnt blink for 5 seconds, maybe the bootloader has disappeared, see below for instructions on how to flash the bootloader \(using ISP-programming\).
 
-https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_8Pixel-OneLiners/NEO_8Pixel-OneLiners.ino.wav
-
 ### Reset, play .wav -&gt; re-program your Mixtape
 
 very very simple!
@@ -16,6 +14,10 @@ very very simple!
 ### Play pre-compiled .wav files
 
 ![](images/instructions/upload_from_website.jpg)
+
+### Try it now! click play button below
+
+https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_8Pixel-OneLiners/NEO_8Pixel-OneLiners.ino.wav
 
 ## Using the Arduino IDE and program yourself
 
