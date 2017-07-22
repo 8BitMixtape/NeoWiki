@@ -39,7 +39,7 @@
   - [README](README.md)
 - X Acknowledgements:
   - [X Acknowledgements](X-Acknowledgements.md)
-- .coverpage:
-  - [.coverpage](_coverpage.md)
+- coverpage:
+  - [coverpage](coverpage.md)
 - sidebar:
   - [sidebar](sidebar.md)
