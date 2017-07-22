@@ -1,4 +1,4 @@
-# Overview - 12
+# Overview
 
 ![](images/boards/Collage_boards.jpg)
 
