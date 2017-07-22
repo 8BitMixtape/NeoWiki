@@ -43,6 +43,10 @@ In case you use a fresh/new attiny, you need to upload the bootloader first, bef
 
 Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
+#### From Arduino IDE
+
+Tools > Burn Bootloader
+
 #### From Terminal
 
 1. **Burn fuses:**
@@ -52,8 +56,4 @@ Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 2. **Flash Bootloader:**
 
     `avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
-
-#### From Arduino IDE
-
-Tools > Burn Bootloader
 
