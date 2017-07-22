@@ -11,5 +11,5 @@
 - 8 Neo Pixels LED
 
 
-[Get Started](home)
+[Get Started](Home)
 [View Source](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
