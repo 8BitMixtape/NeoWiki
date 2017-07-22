@@ -9,7 +9,7 @@ A specific bootloader \([TinyAudioBoot](https://github.com/ChrisMicro/TinyAudioB
 
 ### Reset, play .wav -&gt; re-program your Mixtape
 
-very very simple!!
+very very simple!!!
 
 ### Try it now! click play button below
 
