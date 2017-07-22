@@ -2,6 +2,7 @@
   - [1 Getting Started](1-Getting-Started.md)
   - [1.1 Workshops](1_1-Workshops.md)
   - [1.2 NeoCoco Workshop Zagreb](1_2-NeoCoco Workshop Zagreb.md)
+  - [1.3 Examples](1_3 Examples.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
