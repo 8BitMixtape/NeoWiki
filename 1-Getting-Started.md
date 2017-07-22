@@ -11,10 +11,6 @@ A specific bootloader \([TinyAudioBoot](https://github.com/ChrisMicro/TinyAudioB
 
 very very simple!
 
-### Play pre-compiled .wav files
-
-![](images/instructions/upload_from_website.jpg)
-
 ### Try it now! click play button below
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_8Pixel-OneLiners/NEO_8Pixel-OneLiners.ino.wav
