@@ -29,13 +29,12 @@ Add this line to your "**Additional Board Manager URLs**" in the Preferences \(c
 
 Download this whole repository and find the path to the example codes: [https://github.com/8BitMixtape/8Bit-Mixtape-NEO/tree/master/Code](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/tree/master/Code)
 
-### Extra libraries needed
-
+### Libraries Included
 See more on [Libraries](4_1 Libraries.md)
 
-* **8Bit Mixtape Library \(under development, included since v0.0.13\) **[https://github.com/8BitMixtape/8Bit-Mixtape-NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
-
-* **Adafruit library **[https://github.com/adafruit/Adafruit\_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+* ** 8Bit Mixtape Library ** \(under development, included since v0.0.13\)
+* **Adafruit library **
+* WS_2812 Light
 
 ### Burning the Bootloader
 
