@@ -2,8 +2,11 @@
 
 Package source https://github.com/8BitMixtape/8BitMixtapePlatform
 
-* ### Package Version 0.0.16
-  * [Hex2Wav](4_4.1-Hex2Wav.md): Fix Linux 64/32 Bit issue
+* ### Package Version 0.0.18
+  * [Hex2Wav](4_4.1-Hex2Wav.md): FIXED Linux 64/32 Bit issue
+
+* ### Package Version 0.0.16 - 0.0.17
+  * This version contains [Hex2Wav](4_4.1-Hex2Wav.md): ERROR Linux 64/32 Bit issue
 
 * ### Package Version 0.0.15
   * Added [Neo Examples](https://github.com/8BitMixtape/NeoCodeExamples) 
