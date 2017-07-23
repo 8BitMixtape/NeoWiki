@@ -9,7 +9,8 @@
 ### Package Builder
 
 * [8BitMixtapePackager](https://github.com/8BitMixtape/8BitMixtapePackager) Ultimate auto deploy script, edit [packager.conf](https://github.com/8BitMixtape/8BitMixtapePackager/blob/master/packager.conf) and it will be available on board manager!, includes:
+ * [8BitMixtapeNeo board package](https://github.com/8BitMixtape/8BitMixtapePlatform)
+    
 
-    * [8BitMixtapeNeo board package](https://github.com/8BitMixtape/8BitMixtapePlatform)
-
-    * https://github.com/8BitMixtape/_8Bit-Mixtape-NEO-Lib
+* Included libraries 
+ * https://github.com/8BitMixtape/8BitMixtapePlatform/tree/master/avr/libraries

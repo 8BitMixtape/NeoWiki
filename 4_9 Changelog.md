@@ -1,5 +1,9 @@
 # Changelog
 
+* ### Package Version 0.0.15
+  * Added [Neo Examples](https://github.com/8BitMixtape/NeoCodeExamples) 
+  * Added [Adafruit Neopixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
+
 * ### Package Version 0.0.14
   * Added [WS2812\_light](https://github.com/cpldcpu/light_ws2812) library 
 

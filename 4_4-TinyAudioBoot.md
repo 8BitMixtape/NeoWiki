@@ -2,6 +2,11 @@
 
 Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?f=4&t=127) enhanced with EEPROM write mode. 
 
+## Source code
+
+* Budi Prakosa Repo
+* Chris Haberer Repo
+
 ## Changelog
 
 - todo
