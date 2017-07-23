@@ -2,10 +2,13 @@
 
 Package source https://github.com/8BitMixtape/8BitMixtapePlatform
 
-* ### Package Version 0.0.18
-  * [Hex2Wav](4_4.1-Hex2Wav.md): FIXED Linux 64/32 Bit issue
+* ### Package Version 0.0.20
+  * [Hex2Wav](4_4.1-Hex2Wav.md) add bash script to detect 64/32 linux, added multi arch binary
 
-* ### Package Version 0.0.16 - 0.0.17
+* ### Package Version 0.0.19
+  * [Hex2Wav](4_4.1-Hex2Wav.md): FIXED Linux 64 Bit issue, broken on 32bit
+
+* ### Package Version 0.0.16 - 0.0.18
   * This version contains [Hex2Wav](4_4.1-Hex2Wav.md): ERROR Linux 64/32 Bit issue
 
 * ### Package Version 0.0.15
