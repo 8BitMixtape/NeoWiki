@@ -51,6 +51,7 @@ Tools > Burn Bootloader
 1. **Burn fuses:**
 
     `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
+
     `sudo avrdude -P usb -b 19200 -c avrispmkii -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
 
 2. **Flash Bootloader:**
