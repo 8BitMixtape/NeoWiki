@@ -34,7 +34,7 @@ Download this whole repository and find the path to the example codes: [https://
 * ** [8Bit Mixtape Library](https://github.com/8BitMixtape/_8Bit-Mixtape-NEO-Lib) ** \(under development, included since v0.0.13\)
 * **Adafruit library **
 * WS_2812 Light
-* [See the full list](/h ttps://github.com/8BitMixtape/8BitMixtapePlatform/tree/master/avr/libraries) 
+* [See the full list](https://github.com/8BitMixtape/8BitMixtapePlatform/tree/master/avr/libraries) 
 
 ### Burning the Bootloader
 
