@@ -1,5 +1,8 @@
 # Changelog
 
+* ### Package Version 0.0.16
+  * [Hex2Wav](4_4.1-Hex2Wav.md): Fix Linux 64/32 Bit issue
+
 * ### Package Version 0.0.15
   * Added [Neo Examples](https://github.com/8BitMixtape/NeoCodeExamples) 
   * Added [Adafruit Neopixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
