@@ -18,15 +18,6 @@ Attiny85 version of [Audioboot](http://www.hobby-roboter.de/forum/viewtopic.php?
 - Webinterface with [Hex2WavJS](4_4.1-Hex2Wav.md), EEPROM write
 - Cross platform [Hex2Wav](4_4.1-Hex2Wav.md) command line interface
 
-## Issues
-
-* Binary compiled with 32 Bit debian todo add 64/32
-* Missing libasound: 
-    * ERROR: /0.0.15/tools/hex2wav/linux/hex2wav_bin: No such file or directory
-NEO_022_FamilyMart.ino.wav: No such file or directory
-Error compiling.
-    * apt-get install libasound2-plugins:i386
-
 ## Projects using TinyAudioBoot
 
 - 8BitMixtape NEO
