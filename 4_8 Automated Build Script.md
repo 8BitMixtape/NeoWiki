@@ -2,7 +2,7 @@
 
 ### Automated Documentation Builder
 
-* Auto update via webhook to hostgator using Docsify https://8bitmixtape.github.io/NeoWiki/\#/
+* Auto update via webhook to hostgator using [Docsify Webhook](https://github.com/8BitMixtape/DocsifyWebhook) https://8bitmixtape.github.io/NeoWiki/\#/
 * Auto update via [Travis-CI](http://travis-ci.org/) using Gitbook https://8bitmixtape.github.io/NeoDocs/
 
 ### Automated Package Builder
