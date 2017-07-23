@@ -2,7 +2,7 @@
 
 ![logo](images/logo/neo_logo.svg)
 
-# 8BitMixtape-NEO <small>HW v0.96 SW v0.13</small>
+# 8BitMixtape-NEO <small>HW v0.96 SW v0.15</small>
 
 > A very very cool open source synthesizer.
 
