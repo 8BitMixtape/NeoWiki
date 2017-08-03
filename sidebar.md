@@ -1,6 +1,7 @@
-- 1 Getting Started:
-  - [1 Getting Started](1-Getting-Started.md)
-  - [1.1 Workshops](1_1-Workshops.md)
+- 0 Getting Started:
+  - [0 Getting Started](0-Getting-Started.md)
+- 1 Workshops:
+  - [1 Workshops](1 Workshops.md)
   - [1.2 NeoCoco Workshop Zagreb](1_2-NeoCoco Workshop Zagreb.md)
   - [1.3 Examples NeoCococat](1_3 Examples NeoCococat.md)
   - [1.4 Examples 8BitMixtape NEO](1_4 Examples 8BitMixtape-NEO.md)
