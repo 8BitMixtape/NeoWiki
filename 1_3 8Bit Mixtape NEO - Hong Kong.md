@@ -1,6 +1,6 @@
 # Hong Kong
 
-![](images/HongKong_Workshop/ezgif.com-optimize %283%29.gif)
+![](images/HongKong_Workshop/80ies_Mixtape_3d.gif)
 
 ```
 PRINT "HELLO WORLD";
