@@ -1,11 +1,12 @@
 - 0 Getting Started:
   - [0 Getting Started](0-Getting-Started.md)
+  - [0.1 Examples 8BitMixtape NEO](0_1 Examples 8BitMixtape-NEO.md)
+  - [0.2 Examples NeoCococat](0_2 Examples NeoCococat.md)
 - 1 Workshops:
   - [1 Workshops](1 Workshops.md)
   - [1.1 Proto Workshops](1_1 Proto Workshops.md)
   - [1.2 NeoCoco Workshop Zagreb](1_2-NeoCoco Workshop Zagreb.md)
-  - [1.3 Examples NeoCococat](1_3 Examples NeoCococat.md)
-  - [1.4 Examples 8BitMixtape NEO](1_4 Examples 8BitMixtape-NEO.md)
+  - [1.3 8Bit Mixtape NEO   Hong Kong](1_3 8Bit Mixtape NEO - Hong Kong.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
@@ -17,6 +18,7 @@
   - [2.7 Hinterhof Synthies](2_7-Hinterhof-Synthies.md)
   - [2.8 NeoCoco kimitobo cat](2_8-NeoCoco-kimitobo-cat.md)
   - [2.9 3d Printed Case](2_9 3d Printed Case.md)
+  - [2.10 Packaging](2_10 Packaging.md)
 - 3 Code:
   - [3 Code](3-Code.md)
 - 4 Developer Zone:
