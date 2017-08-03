@@ -2,11 +2,15 @@
 
 ![](/assets/ezgif.com-optimize %283%29.gif)
 
-![](/assets/mixtape_LabDPlus_03.jpg)
+```
+PRINT "HELLO WORLD";
+```
+
+## Description
+
+
 
 ## Parts Overview
 
 Dimension Plus Staaayyle![](/assets/Parts_overview_dimensionplus_style.jpg)
-
-
 
