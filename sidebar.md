@@ -7,6 +7,7 @@
   - [1.1 Proto Workshops](1_1 Proto Workshops.md)
   - [1.2 NeoCoco Workshop Zagreb](1_2-NeoCoco Workshop Zagreb.md)
   - [1.3 8Bit Mixtape NEO   Hong Kong](1_3 8Bit Mixtape NEO - Hong Kong.md)
+  - [1.4 Mixtape Berliner Series](1_4 Mixtape Berliner Series.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
