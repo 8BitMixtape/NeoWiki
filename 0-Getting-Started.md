@@ -1,3 +1,7 @@
+![](images/MixTape_flyer_wide.png)
+
+The 8Bit Mixtape is a lo-fi 8Bit synthesizer based on the Arduino-compatible ATTINY85, featuring 2 Pots, 2 Buttons and 8 adressable RGB Neo-pixels. The key feature of the new 8Bit Mixtape is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone (or walkman). A specific bootloader (TinyAudioBoot) has to be installed on the chip to be able to do so.
+
 # Overview
 
 ![](images/boards/Collage_boards.jpg)
@@ -13,7 +17,7 @@ very very simple!
 
 ### Try it now! click play button below
 
-https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_8Pixel-OneLiners/NEO_8Pixel-OneLiners.ino.wav
+[https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO\_8Pixel-OneLiners/NEO\_8Pixel-OneLiners.ino.wav](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_8Pixel-OneLiners/NEO_8Pixel-OneLiners.ino.wav)
 
 ## Using the Arduino IDE and program yourself
 
@@ -31,9 +35,9 @@ Download this whole repository and find the path to the example codes: [https://
 
 ### Libraries Included
 
-* ** [8Bit Mixtape Library](https://github.com/8BitMixtape/_8Bit-Mixtape-NEO-Lib) ** \(under development, included since v0.0.13\)
+* ** **[**8Bit Mixtape Library**](https://github.com/8BitMixtape/_8Bit-Mixtape-NEO-Lib)** ** \(under development, included since v0.0.13\)
 * **Adafruit library **
-* WS_2812 Light
+* WS\_2812 Light
 * [See the full list](https://github.com/8BitMixtape/8BitMixtapePlatform/tree/master/avr/libraries) 
 
 ### Burning the Bootloader
@@ -44,19 +48,21 @@ Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
 
 #### From Arduino IDE
 
-Tools > Burn Bootloader
+Tools &gt; Burn Bootloader
 
 #### From Terminal
 
 1. **Burn fuses:**
 
-    `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
+   `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
 
-    `sudo avrdude -P usb -b 19200 -c avrispmkii -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
+   `sudo avrdude -P usb -b 19200 -c avrispmkii -p t85 -U efuse:w:0xfe:m -U hfuse:w:0xdd:m -U lfuse:w:0xe1:m`
 
 2. **Flash Bootloader:**
 
-    `avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
+   `avrdude -v -pattiny85 -c avrisp -P/dev/ttyACM0 -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.9/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
 
-    `avrdude -v -pattiny85 -c avrispmkii -P usb -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.15/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
+   `avrdude -v -pattiny85 -c avrispmkii -P usb -b19200 -Uflash:w:/home/dusjagr/.arduino15/packages/8BitMixtape/hardware/avr/0.0.15/bootloaders/tinyaudioboot/AudioBootAttiny85_AudioPB3_LEDPB1.hex:i`
+
+
 
