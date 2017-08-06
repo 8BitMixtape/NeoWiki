@@ -10,6 +10,9 @@
 - Low Cost
 - 8 Neo Pixels LED
 
+![](/assets/MixTape_flyer_wide.png)
+
+The 8Bit Mixtape is a lo-fi 8Bit synthesizer based on the Arduino-compatible ATTINY85, featuring 2 Pots, 2 Buttons and 8 adressable RGB Neo-pixels. The key feature of the new 8Bit Mixtape is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone (or walkman). A specific bootloader (TinyAudioBoot) has to be installed on the chip to be able to do so.
 
 [Get Started](Home)
 [View Source](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
