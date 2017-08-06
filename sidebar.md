@@ -10,7 +10,7 @@
   - [1.4 Mixtape Berliner Series](1_4 Mixtape Berliner Series.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
-  - [2.1 8Bit Mixtape NEO](2_1 8Bit Mixtape NEO.md)
+  - [2.1 8Bit Mixtape NEO](2_1-8Bit-Mixtape-NEO.md)
   - [2.2 Micro Coconut NEO](2_2-Micro-Coconut-NEO.md)
   - [2.3 Protoypes](2_3 Protoypes.md)
   - [2.4 Shenzhen Ready Made.in.Taiwan](2_4-Shenzhen-Ready-Made_in_Taiwan.md)

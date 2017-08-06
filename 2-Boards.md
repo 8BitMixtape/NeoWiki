@@ -10,7 +10,7 @@ Many of the prototypes below are etched by hand during the PCB-residency by dusj
 
 ## 8Bit Mixtape NEO
 
-The [8Bit Mixtape NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/2_1-8Bit-Mixtape-NEO) is the newest edition of our series of mixtapes since 2013 and will rock "officially". 
+The [8Bit Mixtape NEO](2_1-8Bit-Mixtape-NEO.md) is the newest edition of our series of mixtapes since 2013 and will rock "officially". 
 
 ![](images/mixtape_LabDPlus_03.jpg)
 
