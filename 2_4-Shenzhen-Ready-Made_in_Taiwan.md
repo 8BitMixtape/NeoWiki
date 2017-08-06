@@ -1,5 +1,18 @@
 # PCB Design for Manufacturing
 
+## Version 2.5-7 PCBway
+
+https://www.pcbway.com/project/shareproject/8Bit_Mixtape_NEO___BERLINER_SCHULE.html
+
+### Special Edition Lab by Dimension Plus
+
+![](images/onlineGerber_test2.png)
+
+### Special Edition - Berliner Jewelry
+
+![](images/8BitMixtape_Berliner.png)
+[Download gerber files or order from PCBway](https://www.pcbway.com/project/shareproject/8Bit_Mixtape_NEO___BERLINER_SCHULE.html)
+
 ## Version 1.4 Taiwan Edition
 
 ### Shenzhen Ready - Double sided boards

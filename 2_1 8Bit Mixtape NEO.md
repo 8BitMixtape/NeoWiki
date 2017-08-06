@@ -2,7 +2,9 @@
 
 ## 8Bit Mixtape NEO V2.xx (Manufactured PCBs)
 
-![](images/boards/Designs_for_Manufacturing_Gold-Black.png)
+![](images/Mixtape_Batch001_polished.jpg)
+
+![](images/onlineGerber_test2.png)
 
 These boards are based on Schematics 0.96:
 ![](images/schematics/Schematic_v096_8BitMixtape-NEO.png)
