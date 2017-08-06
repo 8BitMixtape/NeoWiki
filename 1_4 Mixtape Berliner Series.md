@@ -17,5 +17,7 @@ See more on[ facebook](https://www.facebook.com/events/433532583713725/)
 
 ## 11. August @ Common Ground
 
+https://commonground.community/wp-event/8bit-mixtape-neo-workshop/
+
 
 
