@@ -8,15 +8,11 @@ Many of the prototypes below are etched by hand during the PCB-residency by dusj
 
 ![](images/boards/making_of_etchedBoards.jpg)
 
-
-![8BitMixtapeNEO_v20_TaiwanReady.jpg](/home/dusjagr/Documents/sgmk/8bit_mixedTape/8BabyMixTape/8BitMixtapeNEO_v20_TaiwanReady.jpg)
-
-
 ## 8Bit Mixtape NEO
 
 The [8Bit Mixtape NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/2_1-8Bit-Mixtape-NEO) is the newest edition of our series of mixtapes since 2013 and will rock "officially". 
 
-![](images/boards/TapeiEdition_dark.jpg)
+![](images/mixtape_LabDPlus_03.jpg)
 
 This image is outdated but kept here for historic reasons and cos it looks nice! New board will be designed with similar looks, but based on the updated schematics.
 
