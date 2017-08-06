@@ -4,11 +4,11 @@
 
 # 8BitMixtape-NEO <small>HW v0.96 SW v0.20</small>
 
-> A very very cool open source synthesizer.
+> A very very cool open source and arduino compatible synthesizer.
 
 - Reprogram with audio
-- Low Cost
-- 8 Neo Pixels LED
+- Object of Desire
+- 8 NEO Pixels (RGB-LEDs)
 
 [Get Started](Home)
 [View Source](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
