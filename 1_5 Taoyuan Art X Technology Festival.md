@@ -1,3 +1,5 @@
+I will put info here....
+
 # 8Bit Mixtape NEO @ TAxT Festival, October 2017 
 
 ## Date and Location
@@ -8,7 +10,7 @@
 
 ## Texts
 
-"8bit Mixtape"( for exhibition)$
+"8bit Mixtape"( for exhibition)
 
 
 "8bit Mixtape Neo Workshop"
@@ -20,7 +22,7 @@
 
 ## Photos for 8Bit Mixtape NEO
 
-![](images/mixtape_LabDPlus_03.jpg)I will put info here....
+![](images/mixtape_LabDPlus_03.jpg)
 
 ![](images/Mixtape_Batch001_polished.jpg)
 
