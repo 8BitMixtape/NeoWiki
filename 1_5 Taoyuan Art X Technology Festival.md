@@ -1,4 +1,4 @@
-I will put info here....
+
 
 "8bit Mixtape"( for exhibition)$
 
@@ -7,4 +7,10 @@ I will put info here....
 
 
 "introduction of Marc"
+
+## Photos
+
+![](images/mixtape_LabDPlus_03.jpg)I will put info here....
+
+![](images/Mixtape_Batch001_polished.jpg)
 
