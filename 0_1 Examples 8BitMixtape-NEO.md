@@ -40,6 +40,13 @@ java -jar ~/Arduino/AttinySound/_053_IrqPcControlSynth/java/Main_IrqPcController
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked.ino.wav
 
+### NeoPixel Sequencer 061
+8 step sequencer with different waveforms by ChrisMicro
+
+Press both bottoms at the same time to start cycle.
+
+https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod/_061_8NeoPixelSequencer_dusjagrMod.ino.wav
+
 ### Family Mart Chime
 
 Because we can... Greetings from Taipei!
