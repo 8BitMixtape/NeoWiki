@@ -1,5 +1,7 @@
-Coming up soon!!!!
+**Coming up soon!!!!**
 
 18 Nov
 
 https://vcfe.ch/
+
+## VCFe Special Ediition in preparation!
