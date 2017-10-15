@@ -24,5 +24,11 @@ I will put info here....
 
 ## General Photos of History of the 8Bit Mixtapes
 
-Coming soon...
+During the Festival Exhibition a setup is displayed for the audience to explore and play with various editions of the mixtape. The table resemles the development process from early prototypes, DIY etched boards and Rako boxes for travelling the world to work with all the mixtape partners in Indonesia, Taiwan and Switzerland.
+
+![](/images/MixtapeHistory_TAxT.jpg)
+
+![](/images/UrMixtape_yogya.jpg)
+
+
 
