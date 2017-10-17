@@ -44,7 +44,10 @@ Download this whole repository and find the path to the example codes: [https://
 
 In case you use a fresh/new attiny, you need to upload the bootloader first, before being able to use it with the Audio-Programming.
 
-Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine.
+Install the 8Bit Mixtape as described above. You can then choose "Burn bootloader" form the menu.
+
+Connect an ATTINY85 to your ISP-Programmer. Arduino as ISP works also fine. 
+(See maaaany instructions on the web for doings so. [example here](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829))
 
 #### From Arduino IDE
 

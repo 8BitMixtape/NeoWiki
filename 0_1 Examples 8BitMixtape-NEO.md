@@ -1,5 +1,7 @@
 ## 8Bit Mixtape NEO
 
+See also [ChrisMicro's repository](https://github.com/ChrisMicro/AttinySound) with maaaany new codes.
+
 
 ### testComponents-Advanced
 
