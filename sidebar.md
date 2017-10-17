@@ -23,6 +23,7 @@
   - [2.8 NeoCoco kimitobo cat](2_8-NeoCoco-kimitobo-cat.md)
   - [2.9 3d Printed Case](2_9 3d Printed Case.md)
   - [2.10 Packaging](2_10 Packaging.md)
+  - [2.11 MS 20.FilterMixtape](2_11-MS-20_FilterMixtape.md)
 - 3 Code:
   - [3 Code](3-Code.md)
 - 4 Developer Zone:
