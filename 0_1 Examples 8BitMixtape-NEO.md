@@ -49,6 +49,12 @@ Press both bottoms at the same time to start cycle.
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod/_061_8NeoPixelSequencer_dusjagrMod.ino.wav
 
+### MiniSynthWithNeoPixels_Coco
+A nice little synth noisy toy.
+
+Updated the synth (12), for cooler LED effects and other stuff
+https://github.com/8BitMixtape/Neocococat/raw/master/code/02. synths/_012_miniSynthWithNeoPixels_Coco_updated/_012_miniSynthWithNeoPixels_Coco_updated.ino.wav
+
 ### Family Mart Chime
 
 Because we can... Greetings from Taipei!
