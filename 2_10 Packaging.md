@@ -3,4 +3,16 @@
 
 ## Testing different packaging for kits
 
+### SMD-Kit Bag-in-Bag
+
+![](images/mixtape_SMD-Kit_package.jpg)
+
+### Pre-soldered simple Kit
+
+Reflow all the SMD parts.
+
+Need to make a stencil!
+
+### Boxology version of finished board / product
+
 ![](images/mixtape_packaging_box_02.jpg)

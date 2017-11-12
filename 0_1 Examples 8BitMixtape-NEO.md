@@ -50,12 +50,14 @@ Press both bottoms at the same time to start cycle.
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod/_061_8NeoPixelSequencer_dusjagrMod.ino.wav
 
 Updated sequencer, more colors, adjust envelope, smooth waveform selection:
+
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod2/_061_8NeoPixelSequencer_dusjagrMod2.ino.wav
 
 ### MiniSynthWithNeoPixels_Coco
 A nice little synth noisy toy.
 
 Updated the synth (12), for cooler LED effects and other stuff
+
 https://github.com/8BitMixtape/Neocococat/raw/master/code/02.%20synths/_012_miniSynthWithNeoPixels_Coco_updated/_012_miniSynthWithNeoPixels_Coco_updated.ino.wav
 
 
