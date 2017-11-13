@@ -7,6 +7,8 @@
 
 ![](images/mixtape_SMD-Kit_package.jpg)
 
+![](images/Mixtape_TutliTopSleeve.jpg)
+
 ### Pre-soldered simple Kit
 
 Reflow all the SMD parts.
