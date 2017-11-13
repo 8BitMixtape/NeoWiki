@@ -8,6 +8,8 @@
 
 [2017 Taoyuan Art X Technology Festival](https://taxt.tw/portfolio/8bit-mixtape-neo/)
 
+![](images/20171015-024.jpg)
+
 ## Texts
 
 _"8bit Mixtape History and Showcase"_
