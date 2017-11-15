@@ -11,6 +11,7 @@
   - [1.4 Mixtape Berliner Series](1_4 Mixtape Berliner Series.md)
   - [1.5 Taoyuan Art X Technology Festival](1_5-Taoyuan-Art-X-Technology-Festival.md)
   - [1.6 VintageComputerFestival.Zurich](1_6-VintageComputerFestival_Zurich.md)
+  - [1.8 Erfindergarden.Draussen](1_8-Erfindergarden_Draussen.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1-8Bit-Mixtape-NEO.md)
