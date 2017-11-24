@@ -1,4 +1,4 @@
-#Coming up soon: The "LAST" Mixtape Workshop in Zurich !!!
+# Coming up soon: The "LAST" Mixtape Workshop in Zurich !!!
 
 ![](images/diymaxioFlyer_single.jpg)
 
@@ -11,7 +11,7 @@
 
 
 
-#Who
+# Who
 ## Mentor Marc Dusseiller aka dusjagr
 
 ![dusjagr portrait Kampfbrille](images/ZagrebWorkshop/dusjagr_Kampfbrille.jpg)
