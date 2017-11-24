@@ -4,10 +4,12 @@
 
 # **Register Now, only a few places left!!!!**
 
+by mailto: shop@8bitmixtape.cc
+
 # Schedule
 ## 14 - 19h Saturday 9. Dez
 
-## 14 - 18h Sunday 10. Dez
+## 14 - 17h Sunday 10. Dez
 
 
 
