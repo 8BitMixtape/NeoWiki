@@ -5,9 +5,9 @@
 # **Register Now, only a few places left!!!!**
 
 # Schedule
-## 15 - 19h Saturday 9. Dez
+## 14 - 19h Saturday 9. Dez
 
-## 15 - 19h Sunday 10. Dez
+## 14 - 19h Sunday 10. Dez
 
 
 
