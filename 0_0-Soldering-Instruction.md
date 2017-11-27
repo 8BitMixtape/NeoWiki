@@ -20,7 +20,7 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 ### Backside
 | Part            | Value    | SMD-Code   | Amount |
 | ----------------|----------|------------|--------|
-| C5              | 10µF     |            |   1    |
+| C4              | 10µF     |            |   1    |
 
 ## Tips for SMD soldering
 coming soon... 
@@ -29,8 +29,8 @@ coming soon...
 ### Frontside
 | Part            | Value    |            | Amount |
 | ----------------|----------|------------|--------|
-| Buttons         |          |            |   2    |
-| On/Off Switch   |          |            |   1    |
+| Buttons         |          |shorten legs|   2    |
+| On/Off Switch   |          |bend/cut legs|   1    |
 | IC-Socket       | DIL-8    |            |   1    |
 | Attiny85        |          | plug it in |   1    |
 
