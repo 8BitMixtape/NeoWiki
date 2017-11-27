@@ -1,6 +1,6 @@
 # Parts Placement
 
-![](images/8BitMixtapeNEO_PartsPlacement_V02.png)
+![](images/8BitMixtapeNEO_PartsPlacement_V03.png)
 
 Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtape/8BitmixtapeNEO_ShenzhenReady/blob/master/8BitMixtapeNEO_PartsPlacement_V03.pdf)
 
@@ -22,16 +22,17 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 | ----------------|----------|------------|--------|
 | C5              | 10µF     |            |   1    |
 
-## Tips or SMD soldering
+## Tips for SMD soldering
+coming soon... 
 
 # Big Parts
 ### Frontside
 | Part            | Value    |            | Amount |
 | ----------------|----------|------------|--------|
 | Buttons         |          |            |   2    |
-| On/Off Switch   |          | 2202 (223  |   1    |
+| On/Off Switch   |          |            |   1    |
 | IC-Socket       | DIL-8    |            |   1    |
-| R9, R10         | 1K       | 1001 (102) |   1    |
+| Attiny85        |          | plug it in |   1    |
 
 ### Backside
 | Part            | Value    |            | Amount |
@@ -39,6 +40,13 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 | Potentiometer   | 10K lin  |            |   2    |
 | AudioJack       | 3.5m     |  Stereo    |   2    |
 | Side-Connector  | 4 Pin    |  female    |   2    |
+| (external power)| 2 Pin/USB|  optional  |   1    |
+| (AAA Holder)    |          |  optional  |   2    |
+
+
+## Tips for soldering
+coming soon... 
+
 
 # Power Management
 ## External PowerPack
@@ -48,6 +56,9 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 ## Using LiPo Battery
 
 ## AAA Battery holders
+![](images/BatteryHolder_backside.jpg)
+
+# Deluxe Options
 
 
 # Parts Overview
