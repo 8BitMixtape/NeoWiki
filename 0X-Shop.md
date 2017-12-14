@@ -3,11 +3,11 @@
 Send a mail to [shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
 
 clarify your order:
-(....) "Just for Pro's" DIY SMD soldering Kit - 65 € ~~75€~~
-(....) "Easy Kit" (SMD-presoldered) - 85 € ~~95€~~
-(....) Deluxe add-ons (Goldchetteli, LiPo Batterie and other goodies) - € on demand
-(....) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape)
-(....) Personal meeting, Pick-Up, Bring-In, per Post (send adress)
+* (....) "Just for Pro's" DIY SMD soldering Kit - 65 € ~~75€~~
+* (....) "Easy Kit" (SMD-presoldered) - 85 € ~~95€~~
+* (....) Deluxe add-ons (Goldchetteli, LiPo Batterie and other goodies) - € on demand
+* (....) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape)
+* (....) Personal meeting, Pick-Up, Bring-In, per Post (send adress)
 
 **Free Shipping Worldwide!!!**
 
