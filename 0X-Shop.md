@@ -10,11 +10,11 @@
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
 
-## "Just for Pro's" SMD Kit (65 € ~~instead of 85€~~)
+## "Just for Pro's" SMD Kit (65 € ~~instead of 75€~~)
 
 ![](images/HongKong_Workshop/Parts_overview_dimensionplus_style.jpg)
 
-## "Easy Kit" SMD-preassembled (85 € ~~instead of 99€~~)
+## "Easy Kit" SMD-preassembled (85 € ~~instead of 95€~~)
 
 ![](images/Kits_for_shop_theMaking.jpg)
 
