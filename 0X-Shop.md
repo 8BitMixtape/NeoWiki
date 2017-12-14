@@ -1,18 +1,24 @@
-# We are selling!!!
+# [We are selling!!!](mailto:shop@8bitmixtape.cc)
 
 ![](images/mixtape_SMD-Kit_package.jpg)
 
+### Series 1 | Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
+![](images/HongKong_Workshop/mixtape_LabDPlus_03.jpg)
+
+###Series 1 | Batch 003 - Berliner Schule | Monoshop Special Edition
+![](images/Mixtape_BerlinerSchule_whiteBack.jpg)
+
 # Series I - DIY Kits for 8Bit Mixtape NEO
 
-## "Just for Pro's" SMD Kit
+## "Just for Pro's" SMD Kit (65 €)
 
 ![](images/HongKong_Workshop/Parts_overview_dimensionplus_style.jpg)
 
-## "Easy Kit" SMD-preassembled
+## "Easy Kit" SMD-preassembled (85 €)
 
 ![](images/Kits_for_shop_theMaking.jpg)
 
-## "Deluxe Add-Ons"
+## "Deluxe Add-Ons" (on demand)
 * Gold Chain
 * 3d-printed case
 * Internal Speaker
@@ -20,14 +26,9 @@
 * bling bling
 
 
-## on demand - Hipster versions
+## on demand - Hipster versions ([contact shop](mailto:shop@8bitmixtape.cc))
 
-### Series 1 | Batch 001/002 - Dimension Plus Special Edition | Made in Taiwan
-![](images/HongKong_Workshop/mixtape_LabDPlus_03.jpg)
-
-###Series 1 | Batch 003 - Berliner Schule | Monoshop Special Edition
-![](images/Mixtape_BerlinerSchule_whiteBack.jpg)
-
+![](images/tag_products_mixtape.png)
 
 # Series II - coming soon... (est Jan 2018)
 
