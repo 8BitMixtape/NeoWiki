@@ -7,7 +7,7 @@ Since the beginning of our hardware developement we have foreseen to ability to 
 https://raw.githubusercontent.com/8BitMixtape/Workshop_Examples/master/_062_8NeoPixelSequencer_syncOut-PO/_062_8NeoPixelSequencer_syncOut-PO.ino.wav
 
 This code needs "Reset disabled" set via fusebits
- avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0x5d:m -U lfuse:w:0xe1:m
+   `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0x5d:m -U lfuse:w:0xe1:m`
 
 ## How to sync to KORG volca series
 
