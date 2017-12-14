@@ -61,13 +61,14 @@ A re-birth of the classic 2014 Manila Edition, now compatible to AudioProg and N
 
 ### Berlin
 
-**Common Ground - Since 2017**
-
-https://commonground.community/
-
 **Central Music - Since 1986**
 ![](images/Shop_available_in_Berlin.jpg)
 http://centralmusicberlin.blogspot.de/
+to be delivered soon...
+
+**Common Ground - Since 2017**
+
+https://commonground.community/
 
 ### Hong Kong
 
