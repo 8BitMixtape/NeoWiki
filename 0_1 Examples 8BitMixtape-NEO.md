@@ -11,7 +11,11 @@ https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_000_testcomp
 
 ### 05092008_ChrisMicro_TraschMetalResearchGroup
 
-A claasiic by ChrisMicro
+A claasiic by ChrisMicro!! Sounds like a heavy metal guitar or Pulp Fictions soundtrack. 
+* Left pot defines pitch, 
+* right pot how fast the guitar is plucked.  
+* buttons do nothing. 
+* sorry now LEDs, bro...
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/wavFiles/05092008_ChrisMicro_TraschMetalResearchGroup.wav
 
