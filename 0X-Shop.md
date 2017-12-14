@@ -81,4 +81,7 @@ http://www.upbeat.ch
 https://www.dymax.io/
 
 
+## Online Re-sellers
+
+get in contact with us! [mailto:shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
 
