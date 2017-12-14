@@ -66,11 +66,12 @@ coming soon...
 ## AAA Battery holders
 ![](images/BatteryHolder_backside.jpg)
 
-## External PowerPack
+### other options
+#### External PowerPack
 
-## Using USB-wired power
+#### Using USB-wired power
 
-## Using LiPo Battery
+#### Using LiPo Battery
 
 
 # Deluxe Options
