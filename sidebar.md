@@ -1,10 +1,9 @@
 - 0 Getting Started:
   - [0 Getting Started](0-Getting-Started.md)
-- 0X Shop:
-  - [0X Shop](0X-Shop.md)
   - [0.0 Soldering Instruction](0_0-Soldering-Instruction.md)
   - [0.1 Examples 8BitMixtape NEO](0_1 Examples 8BitMixtape-NEO.md)
   - [0.2 Examples NeoCococat](0_2 Examples NeoCococat.md)
+  - [0.3 Connectivity.to.KORG.and.PO](0_3-Connectivity_to_KORG_and_PO.md)
 - 1 Workshops:
   - [1 Workshops](1 Workshops.md)
   - [1.1 Proto Workshops](1_1 Proto Workshops.md)
@@ -52,6 +51,8 @@
   - [README](README.md)
 - X Acknowledgements:
   - [X Acknowledgements](X-Acknowledgements.md)
+- XXX Shop:
+  - [XXX Shop](XXX-Shop.md)
 - coverpage:
   - [coverpage](coverpage.md)
 - sidebar:
