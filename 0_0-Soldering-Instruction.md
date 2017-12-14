@@ -63,14 +63,15 @@ coming soon...
 
 
 # Power Management
+## AAA Battery holders
+![](images/BatteryHolder_backside.jpg)
+
 ## External PowerPack
 
 ## Using USB-wired power
 
 ## Using LiPo Battery
 
-## AAA Battery holders
-![](images/BatteryHolder_backside.jpg)
 
 # Deluxe Options
 

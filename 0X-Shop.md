@@ -11,15 +11,11 @@ clarify your order:
 
 **Free Shipping Worldwide!!!**
 
-![](images/mixtape_SMD-Kit_package.jpg)
+![](images/Series1_kits_boards_overview.jpg)
 
-### Series 1 | Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
-![](images/HongKong_Workshop/mixtape_LabDPlus_03.jpg)
+### Series I | Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
 
-###Series 1 | Batch 003 - Berliner Schule | Monoshop Special Edition
-![](images/Mixtape_BerlinerSchule_whiteBack.jpg)
-
-
+###Series I | Batch 003 - Berliner Schule | Monoshop Special Edition
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
 
