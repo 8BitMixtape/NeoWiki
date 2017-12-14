@@ -57,18 +57,18 @@ A re-birth of the classic 2014 Manila Edition, now compatible to AudioProg and N
 
 ### Berlin
 
-**Central Music - Since 1986**
+#### Central Music - Since 1986
 ![](images/Shop_available_in_Berlin.jpg)
 http://centralmusicberlin.blogspot.de/
 to be delivered soon...
 
-**Common Ground - Since 2017**
+#### Common Ground - Since 2017
 
 https://commonground.community/
 
 ### Hong Kong
 
-**Lab by DimensionPlus HK**
+#### Lab by DimensionPlus HK
 ![](images/Shop_available_in_HK.jpg)
 http://labbydimensionplus.co/hk/
 
@@ -89,11 +89,11 @@ http://labbydimensionplus.co/hk/
 
 ### Zürich
 
-**UP BEAT - Musikhaus**
+#### UP BEAT - Musikhaus
 ![](images/Shop_available_in_Zurich.jpg)
 http://www.upbeat.ch
 
-**Dymax.iøn**
+#### Dymax.iøn
 
 https://www.dymax.io/
 
