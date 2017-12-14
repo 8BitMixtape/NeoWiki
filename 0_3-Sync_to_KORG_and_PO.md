@@ -15,10 +15,13 @@ This code needs "Reset disabled" set via fusebits
 
 http://www.korg.com/us/products/dj/volca_beats/
 
+The KORG sync input is usually connected with a mono-jack cable, so the sync signal has to be on the tip of the mini-jack. The 8Bit Mixtape was designed to send sync on the Ring [T|R|S] of the jack. To connect the 8Bit Mixtape as "Master" to the KORG we advise to use the outputs on the side and make your own connector cable.
+
+Another method is to solder the plug of the 8Bit Mixtape inverted from the top of the PCB, which will switch the polarity of the connection!
 
 
 ## How to sync to pocket operator PO-series by Teenage Engineering
 
-
+![](images/mixtape_2_PO_overview.jpg)
 
 https://teenage.engineering/products/po
