@@ -1,5 +1,16 @@
 # [We are selling!!!](mailto:shop@8bitmixtape.cc)
 
+Send a mail to [shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
+
+clarify your order:
+(....) "Just for Pro's" DIY SMD soldering Kit - 65 € ~~75€~~
+(....) "Easy Kit" (SMD-presoldered) - 85 € ~~95€~~
+(....) Deluxe add-ons (Goldchetteli, LiPo Batterie and other goodies) - € on demand
+(....) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape)
+(....) Personal meeting, Pick-Up, Bring-In, per Post (send adress)
+
+**Free Shipping Worldwide!!!**
+
 ![](images/mixtape_SMD-Kit_package.jpg)
 
 ### Series 1 | Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
@@ -7,6 +18,8 @@
 
 ###Series 1 | Batch 003 - Berliner Schule | Monoshop Special Edition
 ![](images/Mixtape_BerlinerSchule_whiteBack.jpg)
+
+
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
 
@@ -35,6 +48,12 @@
 * Minor improvements for battery positioning
 * new design elements
 * factory pre-assembled version of "Easy Kit"
+
+# Special Vintage Series - 8Bit Mixtape 1.0 RETRO (limited)
+
+A re-birth of the classic 2014 Manila Edition, now compatible to AudioProg and NEO!!
+
+
 
 # Where to buy it
 
