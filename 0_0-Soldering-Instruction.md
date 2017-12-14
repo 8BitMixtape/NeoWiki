@@ -2,7 +2,7 @@
 
 ![](images/8BitMixtapeNEO_PartsPlacement_V03.png)
 
-Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtape/8BitmixtapeNEO_ShenzhenReady/blob/master/8BitMixtapeNEO_PartsPlacement_V03.pdf)
+Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtape/8BitmixtapeNEO_ShenzhenReady/blob/master/8BitMixtapeNEO_PartsPlacement_V04.pdf)
 
 # SMD parts
 ### Frontside
@@ -23,7 +23,21 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 | C4              | 10µF     |            |   1    |
 
 ## Tips for SMD soldering
-coming soon... 
+
+**IT's EASY!!!**
+
+![](images/SMD_Soldering_overview.jpg)
+
+### Tools and Materials needed
+
+
+### Solder your frist Part
+
+
+### Careful with the NEO-Pixels
+
+### DONE!!
+
 
 # Big Parts
 ### Frontside

@@ -1,5 +1,7 @@
 - 0 Getting Started:
   - [0 Getting Started](0-Getting-Started.md)
+- 0X Shop:
+  - [0X Shop](0X-Shop.md)
   - [0.0 Soldering Instruction](0_0-Soldering-Instruction.md)
   - [0.1 Examples 8BitMixtape NEO](0_1 Examples 8BitMixtape-NEO.md)
   - [0.2 Examples NeoCococat](0_2 Examples NeoCococat.md)
