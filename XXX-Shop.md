@@ -48,7 +48,7 @@ Batch 003 - Berliner Schule | Monoshop Special Edition
 
 A re-birth of the classic 2014 Manila Edition, now compatible to AudioProg and NEO!!
 
-
+![](images/8BitMixtape-RETRO.jpg)
 
 # Where to buy it
 
