@@ -11,14 +11,13 @@ clarify your order:
 
 **Free Shipping Worldwide!!!**
 
-![](images/Series1_kits_boards_overview.jpg)
-
-### Series I | Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
-
-###Series I | Batch 003 - Berliner Schule | Monoshop Special Edition
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
+![](images/Series1_kits_boards_overview.jpg)
+Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
+Batch 003 - Berliner Schule | Monoshop Special Edition
 
+# Series I - DIY Kits for 8Bit Mixtape NEO
 ## "Just for Pro's" SMD Kit (65 € ~~instead of 75€~~)
 
 ![](images/HongKong_Workshop/Parts_overview_dimensionplus_style.jpg)
