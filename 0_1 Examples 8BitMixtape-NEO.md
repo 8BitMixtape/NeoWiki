@@ -47,14 +47,22 @@ java -jar ~/Arduino/AttinySound/_053_IrqPcControlSynth/java/Main_IrqPcController
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked.ino.wav
 
-### NeoPixel Sequencer 061
-8 step sequencer with different waveforms by ChrisMicro
+### NeoPixel Sequencer 061 dusjagrMod2
+8 step sequencer with different waveforms by ChrisMicro.
 
-Press both bottoms at the same time to start cycle.
+Press both bottoms at the same time to start cycle. Updated sequencer, more colors, adjust envelope, smooth waveform selection
 
-https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod/_061_8NeoPixelSequencer_dusjagrMod.ino.wav
+// progMode
+* leftPot: waveform 
+* rightPot: frequency (hysteresis, don't move to keep previous value)
+* buttonLeft: 1 step backward
+* buttonRight: 1 step forward
+* both Buttons: Start playMode
 
-Updated sequencer, more colors, adjust envelope, smooth waveform selection:
+// playMode
+* leftPot: duration of envelope
+* rightPot: clock speed
+* both Buttons: switch to progMode
 
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSequencer_dusjagrMod2/_061_8NeoPixelSequencer_dusjagrMod2.ino.wav
 
