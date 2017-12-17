@@ -53,7 +53,7 @@ https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_054_IrqPcCon
 Press both bottoms at the same time to start cycle. Updated sequencer, more colors, adjust envelope, smooth waveform selection
 
 // progMode
-* leftPot: waveform 
+* leftPot: waveform (changes color of stepLED)
 * rightPot: frequency (hysteresis, don't move to keep previous value)
 * buttonLeft: 1 step backward
 * buttonRight: 1 step forward
