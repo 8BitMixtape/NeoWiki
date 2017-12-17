@@ -45,6 +45,8 @@ java -jar ./Main_IrqPcControllerForSynth.jar
 java -jar ~/Arduino/AttinySound/_053_IrqPcControlSynth/java/Main_IrqPcControllerForSynth.jar
 ```
 
+How to use it? Figure it out yourself, dude.
+
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked/NEO_054_IrqPcControlSynth_usingNeoLib_colorGeeked.ino.wav
 
 ### NeoPixel Sequencer 061 dusjagrMod2
