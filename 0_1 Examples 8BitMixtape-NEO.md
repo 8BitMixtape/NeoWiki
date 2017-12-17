@@ -68,7 +68,7 @@ https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/_061_8NeoPixelSe
 
 ### NeoPixel Sequencer 062 with Sync-Out
 
-See [here](/0_3-Sync_to_KORG_and_PO.md "here")
+Same as above, but see [here](/0_3-Sync_to_KORG_and_PO.md "here") to connect to other synthesizers.
 
 ### MiniSynthWithNeoPixels_Coco
 A nice little synth noisy toy. We should add more settings to it.
