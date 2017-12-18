@@ -51,6 +51,11 @@ https://github.com/8BitMixtape/8Bit-Mixtape-NEO/raw/master/Code/NEO_054_IrqPcCon
 
 ![](images/IrqSynth_Explained_v2.jpg)
 
+TO DO:
+* switch to external SyncIn to start envelope (2 button press)
+* then be able to control the envelope with the AMD MOD section
+* send FREQ MOD LFO as SyncOut
+
 ### NeoPixel Sequencer 061 dusjagrMod2
 8 step sequencer with different waveforms by ChrisMicro.
 
