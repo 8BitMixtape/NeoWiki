@@ -3,10 +3,10 @@
 Send a mail to [shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
 
 clarify your order:
-* (....) "Just for Pro's" DIY SMD soldering Kit - 65 € ~~75€~~
-* (....) "Easy Kit" (SMD-presoldered) - 85 € ~~95€~~
+* (....) "Just for Pro's" DIY SMD soldering Kit - [65 €](https://www.paypal.me/8bitmixtape/65eur) ~~75€~~
+* (....) "Easy Kit" (SMD-presoldered) - [85 €](https://www.paypal.me/8bitmixtape/85eur) ~~95€~~
 * (....) Deluxe add-ons (Goldchetteli, LiPo Batterie and other goodies) - € on demand
-* (....) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape)
+* (....) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape/85eur)
 * (....) Personal meeting, Pick-Up, Bring-In, per Post (send adress)
 
 **Free Shipping Worldwide!!!**
@@ -18,15 +18,15 @@ Batch 001/002 - Lab by Dimension Plus | Taiwan Special Edition
 Batch 003 - Berliner Schule | Monoshop Special Edition
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
-## "Just for Pro's" SMD Kit (65 € ~~instead of 75€~~)
+## "Just for Pro's" SMD Kit ([65 €](https://www.paypal.me/8bitmixtape/65eur) ~~instead of 75€~~)
 
 ![](images/HongKong_Workshop/Parts_overview_dimensionplus_style.jpg)
 
-## "Easy Kit" SMD-preassembled (85 € ~~instead of 95€~~)
+## "Easy Kit" SMD-preassembled ([85 €](https://www.paypal.me/8bitmixtape/85eur) ~~instead of 95€~~)
 
 ![](images/Kits_for_shop_theMaking.jpg)
 
-## "Deluxe Add-Ons" (on demand)
+## "Deluxe Add-Ons" ([on demand](https://www.paypal.me/8bitmixtape/))
 * Gold Chain
 * 3d-printed case
 * Internal Speaker
