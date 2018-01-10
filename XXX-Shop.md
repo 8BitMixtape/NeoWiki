@@ -64,6 +64,8 @@ A re-birth of the classic 2014 Manila Edition, now compatible to AudioProg and N
 [http://centralmusicberlin.blogspot.de/](http://centralmusicberlin.blogspot.de/)  
 to be delivered soon...
 
+![](images/mixtape_centralmusic_berlin.jpg)
+
 #### Common Ground - Since 2017
 
 [https://commonground.community/](https://commonground.community/)
