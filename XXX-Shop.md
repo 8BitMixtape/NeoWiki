@@ -85,6 +85,10 @@ to be delivered soon...
 
 ### Taipei
 
+#### Lab by DimensionPlus TW
+
+[https://www.facebook.com/labdptw/](https://www.facebook.com/labdptw/)
+
 ### Tel Aviv
 
 ![](images/kit_telaviv_trashaddiction.jpg)
@@ -100,7 +104,14 @@ to be delivered soon...
 
 #### Dymax.iøn
 
+![](images/kits_dymax.jpg)
 [https://www.dymax.io/](https://www.dymax.io/)
+
+#### loops&bits
+
+![](images/kits_in_loopsnbits.jpg)
+
+[https://www.loopsandbits.ch/](https://www.loopsandbits.ch/)
 
 ## Online Re-sellers
 
