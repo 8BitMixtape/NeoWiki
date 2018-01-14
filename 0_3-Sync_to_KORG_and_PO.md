@@ -6,6 +6,12 @@ Since the beginning of our hardware developement we have foreseen to ability to 
 
 https://raw.githubusercontent.com/8BitMixtape/Workshop_Examples/master/NEO_062_Sequencer_syncOut-PO/NEO_062_Sequencer_syncOut-PO.wav
 
+https://github.com/8BitMixtape/Workshop_Examples/raw/master/NEO_062_Sequencer_syncOut-PO/NEO_062_Sequencer_syncOut-PO.ino.wav
+
+https://github.com/8BitMixtape/Workshop_Examples/blob/master/NEO_062_Sequencer_syncOut-PO/NEO_062_Sequencer_syncOut-PO.ino.wav
+
+https://raw.githubusercontent.com/8BitMixtape/8Bit-Mixtape-NEO/master/wavFiles/NEO-Sequencer-syncOut-PO.wav
+
 This code needs "Reset disabled" set via fusebits
    `avrdude -P /dev/ttyACM0 -b 19200 -c avrisp -p t85 -U efuse:w:0xfe:m -U hfuse:w:0x5d:m -U lfuse:w:0xe1:m`
 
