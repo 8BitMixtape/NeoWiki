@@ -2,10 +2,9 @@
 
 Package source [https://github.com/8BitMixtape/8BitMixtapePlatform](https://github.com/8BitMixtape/8BitMixtapePlatform)
 
-* ### Package Version 0.0.27
+* ### Package Version 0.0.27 \(current version\)
 
   * [\[Hex2Wav\]](#) Fix relative path to zip \(linux\)
-
 * ### Package Version 0.0.23 - 0.0.26
 
   * [\[Hex2Wav\]](#) Fix relative path to zip \(windows\)
