@@ -32,9 +32,11 @@ Another method is to solder the plug of the 8Bit Mixtape inverted from the top o
 Korg Volca sync-out pulses can be detected and counted with pin state change interrupts. This first test uses counter-intuitively the same sync-out pin(PB5) solder points on right side of the 8BitMixtape board as the sync-out example above. Ideally the sync-in solder points or the programming audio jack could be used, but the interrupt might interfere with reading the buttons on that pin(PB3). This needs to be explored next. Korg Volca sends four pulses per beat and the interrupt code counts these, and triggers play function (oneliner example) every four pulses, ie the beat. The pot tweaking interferes the sync since the playback speed changes, but sync can be easily found again. Crude example, but a start.
 
 Code example here:
+
 https://github.com/8BitMixtape/8Bit-Mixtape-NEO/tree/master/Code/NEO_SyncOut_OneLiner
 
 Short video here:
+
 https://www.youtube.com/watch?v=_05s-ouzIVY
 
 ## How to sync to pocket operator PO-series by Teenage Engineering
