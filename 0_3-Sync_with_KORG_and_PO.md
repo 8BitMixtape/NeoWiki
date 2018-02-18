@@ -2,7 +2,7 @@
 
 Finally managed to test and connect to the KORG volca series and PO. Success!!!
 
-Since the beginning of our hardware developement we have foreseen to ability to connect to other popular synthesizers, both with a CV output and input, aswell as synchronizing the speed/clock of connected devices with the "SYNC" out from the 8Bit Mixtape NEO.
+Since the beginning of our hardware development we have foreseen to ability to connect to other popular synthesizers, both with a CV output and input, as well as synchronizing the speed/clock of connected devices with the "SYNC" out from the 8Bit Mixtape NEO.
 
 https://raw.githubusercontent.com/8BitMixtape/Workshop_Examples/master/NEO_062_Sequencer_syncOut-PO/NEO_062_Sequencer_syncOut-PO.wav
 
@@ -25,6 +25,17 @@ The KORG sync input is usually connected with a mono-jack cable, so the sync sig
 
 Another method is to solder the plug of the 8Bit Mixtape inverted from the top of the PCB, which will switch the polarity of the connection!
 
+## How to sync-in from KORG volca series
+
+(image soon)
+
+Korg Volca sync-out pulses can be detected and counted with pin state change interrupts. This first test uses counter-intuitively the same sync-out pin(PB5) solder points on right side of the 8BitMixtape board as the sync-out example above. Ideally the sync-in solder points or the programming audio jack could be used, but the interrupt might interfere with reading the buttons on that pin(PB3). This needs to be explored next. Korg Volca sends four pulses per beat and the interrupt code counts these, and triggers play function (oneliner example) every four pulses, ie the beat. The pot tweaking interferes the sync since the playback speed changes, but sync can be easily found again. Crude example, but a start.
+
+Code example here:
+https://github.com/8BitMixtape/8Bit-Mixtape-NEO/tree/master/Code/NEO_SyncOut_OneLiner
+
+Short video here:
+https://www.youtube.com/watch?v=_05s-ouzIVY
 
 ## How to sync to pocket operator PO-series by Teenage Engineering
 
