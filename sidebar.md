@@ -41,6 +41,7 @@
   - [4.5 Testing the prototypes](4_5-Testing-the-prototypes.md)
   - [4.6 Real Time Communication](4_6-Real-Time-Communication.md)
   - [4.7 MYOB   Make Your Own Board](4_7 MYOB---Make-Your-Own-Board.md)
+  - [4.7.1 PCB Art with Kicad and Inkscape](4_7.1-PCB-Art-with-Kicad-and-Inkscape.md)
   - [4.8 Automated Build Script](4_8 Automated Build Script.md)
   - [4.9 Changelog](4_9 Changelog.md)
   - [4.10 Todo](4_10 Todo.md)
