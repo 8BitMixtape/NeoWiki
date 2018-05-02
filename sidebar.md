@@ -46,6 +46,7 @@
   - [4.9 Changelog](4_9 Changelog.md)
   - [4.10 Todo](4_10 Todo.md)
   - [4.11 Attiny Based Synth](4_11 Attiny Based Synth.md)
+  - [4.12 Attiny85 Snippets](4_12 Attiny85 Snippets.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5-History-of-the-Coconut.md)
 - Home:
