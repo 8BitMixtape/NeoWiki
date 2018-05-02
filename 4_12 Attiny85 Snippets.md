@@ -1,7 +1,6 @@
 # Attiny85 Snippets
 
-
-## Tips From [Minimo](http://minimosynth.com) 
+Tips From [Minimo](http://minimosynth.com) 
 
 ---
 
