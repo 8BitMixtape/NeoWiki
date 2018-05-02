@@ -4,7 +4,7 @@
 
 
 ## ASIA
-
+---
 ### Hong Kong
 
 #### Lab by DimensionPlus HK
@@ -30,6 +30,7 @@
 [http://shop.8bitmixtape.cc/product/8bitmixtapeneo/](http://shop.8bitmixtape.cc/product/8bitmixtapeneo/)
 
 ## EUROPE
+---
 
 ### Berlin
 
@@ -66,6 +67,6 @@
 [https://www.loopsandbits.ch/](https://www.loopsandbits.ch/)
 
 ## Online Re-sellers
-
+---
 get in contact with us! email [shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
 
