@@ -26,7 +26,7 @@
 
 ### Yogyakarta
 
-#### Official 8Bitmixtape Shop
+#### (Official) 8Bitmixtape Shop
 
 [http://shop.8bitmixtape.cc/product/8bitmixtapeneo/](http://shop.8bitmixtape.cc/product/8bitmixtapeneo/)
 
