@@ -1,8 +1,7 @@
 
 
-# Where to buy 8BitMixtapeNEO
+# 8BitMixtapeNEO Distributor Worldwide
 
-## In Your Local Shop
 
 ## ASIA
 
