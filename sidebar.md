@@ -45,6 +45,7 @@
   - [4.8 Automated Build Script](4_8 Automated Build Script.md)
   - [4.9 Changelog](4_9 Changelog.md)
   - [4.10 Todo](4_10 Todo.md)
+  - [4.11 Attiny Based Synth](4_11 Attiny Based Synth.md)
 - 5 History of the Coconut:
   - [5 History of the Coconut](5-History-of-the-Coconut.md)
 - Home:
