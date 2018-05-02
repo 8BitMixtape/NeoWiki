@@ -55,6 +55,8 @@
   - [X Acknowledgements](X-Acknowledgements.md)
 - XXX Shop:
   - [XXX Shop](XXX-Shop.md)
+- XXXX Distributor:
+  - [XXXX Distributor](XXXX-Distributor.md)
 - coverpage:
   - [coverpage](coverpage.md)
 - sidebar:
