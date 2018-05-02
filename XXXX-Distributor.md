@@ -50,6 +50,10 @@
 
 ### Zürich
 
+#### (Official) 8Bitmixtape Shop
+
+[http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/)
+
 #### UP BEAT - Musikhaus
 
 [http://www.upbeat.ch](http://www.upbeat.ch)
