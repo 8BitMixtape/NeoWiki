@@ -1,3 +1,10 @@
+# Attiny85 Snippets
+
+
+## Tips From [Minimo](http://minimosynth.com) 
+
+---
+
 ### PLL
 
 ```
@@ -21,3 +28,4 @@
   DIDR0 = (1 << ADC1D) | (1 << ADC3D); //PB2,PB3  //disable digital input in pins that do analog conversion
 
 ```
+
