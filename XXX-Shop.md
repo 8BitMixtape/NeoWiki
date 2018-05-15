@@ -1,4 +1,4 @@
-# [We are selling!!!](mailto:shop@8bitmixtape.cc)
+# We are selling!!!
 
 ## Order your mixtape here [http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/)
 
