@@ -1,14 +1,8 @@
 # [We are selling!!!](mailto:shop@8bitmixtape.cc)
 
-Send a mail to [shop@8bitmixtape.cc](mailto:shop@8bitmixtape.cc)
+## Order your mixtape here [http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/)
 
-clarify your order:
-
-* \(....\) "Just for Pro's" DIY SMD soldering Kit - [65 €](https://www.paypal.me/8bitmixtape/65eur) ~~75€~~
-* \(....\) "Easy Kit" \(SMD-presoldered\) - [85 €](https://www.paypal.me/8bitmixtape/85eur) ~~95€~~
-* \(....\) Deluxe add-ons \(Goldchetteli, LiPo Batterie and other goodies\) - € on demand
-* \(....\) payment cash, invoice, banktransfer or [PayPal](https://www.paypal.me/8bitmixtape/85eur)
-* \(....\) Personal meeting, Pick-Up, Bring-In, per Post \(send adress\)
+## Check Local distributor here [http://neo.8bitmixtape.cc/shop/distributor](http://neo.8bitmixtape.cc/shop/distributor)
 
 **Free Shipping Worldwide!!!**
 
