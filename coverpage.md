@@ -12,4 +12,5 @@
 
 [Get Started](Home)
 [View Source](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
+[Main Website](http://neo.8bitmixtape.cc)
 [Buy Mixtape](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/)
