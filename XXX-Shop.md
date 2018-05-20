@@ -14,11 +14,11 @@ Batch 003 - Berliner Schule \| Monoshop Special Edition
 
 # Series I - DIY Kits for 8Bit Mixtape NEO
 
-## "Just for Pro's" SMD Kit \([65 €](https://www.paypal.me/8bitmixtape/65eur) ~~instead of 75€~~\)
+## "Just for Pro's" SMD Kit \([65 €](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/) ~~instead of 75€~~\)
 
 ![](images/HongKong_Workshop/Parts_overview_dimensionplus_style.jpg)
 
-## "Easy Kit" SMD-preassembled \([85 €](https://www.paypal.me/8bitmixtape/85eur) ~~instead of 95€~~\)
+## "Easy Kit" SMD-preassembled \([85 €](http://shop.8bitmixtape.cc/product/8bitmixtapeneokit/) ~~instead of 95€~~\)
 
 ![](images/Kits_for_shop_theMaking.jpg)
 
