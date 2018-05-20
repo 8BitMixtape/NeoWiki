@@ -22,7 +22,7 @@ Batch 003 - Berliner Schule \| Monoshop Special Edition
 
 ![](images/Kits_for_shop_theMaking.jpg)
 
-## "Deluxe Add-Ons" \([on demand](https://www.paypal.me/8bitmixtape/)\)
+## "Deluxe Add-Ons" \([on demand](mailto:shop@8bitmixtape.cc)\)
 
 * Gold Chain
 * 3d-printed case
