@@ -4,6 +4,7 @@
   - [0.1 Examples 8BitMixtape NEO](0_1 Examples 8BitMixtape-NEO.md)
   - [0.2 Using.CV Input Output](0_2-Using_CV-Input-Output.md)
   - [0.3 Sync.with.KORG.and.PO](0_3-Sync_with_KORG_and_PO.md)
+  - [0.4 SyncIn](0_4-SyncIn.md)
   - [0.5 PimpUp Your Mixtape](0_5-PimpUp-Your-Mixtape.md)
 - 1 Workshops:
   - [1 Workshops](1 Workshops.md)
