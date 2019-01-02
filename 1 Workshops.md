@@ -26,6 +26,8 @@ tbc
 
 ## WSK Festival, Manila, The Philipines
 
+![](/images/WSK-mixtape_photos.png)
+
 # Workshops 2017
 
 ## Pre-Proto Workshops, Taipei, Taiwan
