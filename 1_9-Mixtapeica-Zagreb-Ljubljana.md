@@ -1,8 +1,24 @@
+# Workshop Tour - Zagreb - Ljubljana
+
+## Description 
+
+Finally another build and code Workshop-Tour for making the famous 8Bit Mixtape NEO is happening in Zagren and Ljubljana! Join us for a weekend of soldering and experimenting with lo-fi 8Bit soundzzz and bluuurrrps.
+
+The 8Bit Mixtape NEO is a lo-fi 8Bit synthesizer based on the Arduino-compatible ATTINY85, featuring 2 Pots, 2 Buttons and 8 addressable RGB Neo-pixels. The key feature of the new 8Bit Mixtape NEO is the easiness of uploading new codes using an audio communication protocol.
+
+## 20. Jan @ Radiona, Zagreb
+
+## 22. Jan @ Ljudmila, Ljubljana
+
+# 8Bit Mixtape Special Edition 2019
 
 
+## Related Info on the 8Bit Mixtape
 
+Check-out what other people wrote about it:
+http://wiki.8bitmixtape.cc/#/4_13-Publication
 
-## Mentor: Marc Dusseiller aka dusjagr
+# Mentor: Marc Dusseiller aka dusjagr
 
 ![dusjagr portrait Kampfbrille](images/ZagrebWorkshop/dusjagr_Kampfbrille.jpg)
 
