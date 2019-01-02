@@ -16,6 +16,7 @@
   - [1.6 VintageComputerFestival.Zurich](1_6-VintageComputerFestival_Zurich.md)
   - [1.7 Dymax.io.Workshop Zurich](1_7-Dymax.io_Workshop-Zurich.md)
   - [1.8 Erfindergarden.Draussen](1_8-Erfindergarden_Draussen.md)
+  - [1.9 Mixtapeica Zagreb Ljubljana](1_9-Mixtapeica-Zagreb-Ljubljana.md)
 - 2 Boards:
   - [2 Boards](2-Boards.md)
   - [2.1 8Bit Mixtape NEO](2_1-8Bit-Mixtape-NEO.md)

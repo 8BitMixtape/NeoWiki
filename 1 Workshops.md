@@ -1,6 +1,24 @@
-# Upcoming Workshops 
+# Upcoming Workshops
 
-# Workshops 2017-18
+## mixtapeica @ Radiona, Zagreb, Croatia
+
+20th Jan 2019, 13-18h
+
+See more here
+
+## mixtapeica @ Ljudmila, Ljubljana, Slovenia
+
+22th Jan 2019, 17-23h
+
+# Workshops 2018
+
+## Zürich, Switzerland
+
+8/9. December 2018 @ MechArtLab
+
+## WSK Festival, Manila, The Philipines
+
+# Workshops 2017
 
 ## Pre-Proto Workshops, Taipei, Taiwan
 
@@ -52,9 +70,7 @@ More info [here](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/1_2-NeoCoc
 
 11 August 2017 @ Common Ground
 
-## Zürich?
+## TAxT Workshops, Taoyuan, Taiwan
 
-## Bern?
-
-
+Oct 2017
 
