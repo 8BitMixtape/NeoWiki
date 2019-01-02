@@ -4,11 +4,13 @@
 
 20th Jan 2019, 13-18h
 
-See more here
+See more [here](http://wiki.8bitmixtape.cc/#/1_9-Mixtapeica-Zagreb-Ljubljana)
 
 ## mixtapeica @ Ljudmila, Ljubljana, Slovenia
 
 22th Jan 2019, 17-23h
+
+See more [here](http://wiki.8bitmixtape.cc/#/1_9-Mixtapeica-Zagreb-Ljubljana)
 
 ## Turku / Helsinki, March 2019, Finland
 
