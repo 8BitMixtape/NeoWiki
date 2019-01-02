@@ -6,7 +6,9 @@ Finally another build and code Workshop-Tour for making the famous 8Bit Mixtape 
 
 The 8Bit Mixtape NEO is a lo-fi 8Bit synthesizer based on the Arduino-compatible ATTINY85, featuring 2 Pots, 2 Buttons and 8 addressable RGB Neo-pixels. The key feature of the new 8Bit Mixtape NEO is the easiness of uploading new codes using an audio communication protocol.
 
-The 8Bit Mixtape NEO has been developed since Winter 2017 by dusjagr, ChrisMicro (RoboterClub Freiburg), Budi Prakosa (Lifepatch) and many other contributors! Since December 2018 it's ready for sale on our new website
+![](/images/8Bit-Mixtape_v30_80ies.jpg)
+
+The 8Bit Mixtape NEO has been developed since Winter 2017 by dusjagr, ChrisMicro (RoboterClub Freiburg), Budi Prakosa (Lifepatch) and many other contributors! Since 2018 it's ready for sale as a DIY-Kit on our [new website](http://neo.8bitmixtape.cc/) and many new [examples from community contributors](http://neo.8bitmixtape.cc/mixtape) are available.
 
 ## 20. Jan @ Radiona, Zagreb
 Sunday, 13-18h
