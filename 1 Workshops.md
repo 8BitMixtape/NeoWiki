@@ -10,11 +10,17 @@ See more here
 
 22th Jan 2019, 17-23h
 
+## Turku / Helsinki, March 2019, Finland
+
+
+
 # Workshops 2018
 
 ## Zürich, Switzerland
 
 8/9. December 2018 @ MechArtLab
+
+
 
 ## WSK Festival, Manila, The Philipines
 
