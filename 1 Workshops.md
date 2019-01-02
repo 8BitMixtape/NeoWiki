@@ -1,4 +1,6 @@
-# Upcoming Workshops
+# Upcoming Workshops 
+
+# Workshops 2017-18
 
 ## Pre-Proto Workshops, Taipei, Taiwan
 
@@ -14,7 +16,7 @@ was fun!
 
 ## Dimension Plus LAB, Taipei, Taiwan
 
-4th April. See fbook: https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/1_1-Workshops
+4th April. See fbook: [https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/1\_1-Workshops](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/1_1-Workshops)
 
 MixTape Clinic... still going on
 
@@ -35,7 +37,6 @@ tba early April
 8/9. June 2017
 
 More info [here](https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/1_2-NeoCoco-Workshop-Zagreb)
-
 
 ## Proto Workshops, Taipei, Taiwan
 
