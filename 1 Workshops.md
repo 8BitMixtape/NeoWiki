@@ -1,5 +1,3 @@
-# Upcoming Workshops
-
 ## mixtapeica @ Radiona, Zagreb, Croatia
 
 20th Jan 2019, 13-18h
@@ -22,6 +20,7 @@ See more [here](http://wiki.8bitmixtape.cc/#/1_9-Mixtapeica-Zagreb-Ljubljana)
 
 8/9. December 2018 @ MechArtLab
 
+![](/images/NEO_workshop-Zurich_fbook.png)# Upcoming Workshops
 
 
 ## WSK Festival, Manila, The Philipines
