@@ -12,6 +12,7 @@ See more [here](http://wiki.8bitmixtape.cc/#/1_9-Mixtapeica-Zagreb-Ljubljana)
 
 ## Turku / Helsinki, March 2019, Finland
 
+tbc
 
 
 # Workshops 2018
