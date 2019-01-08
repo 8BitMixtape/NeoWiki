@@ -26,8 +26,7 @@ Location:
 
 Stay tuned for a special edition dedicated and limited to ONLY this tour mixtapeica!
 
-![](/images/V30_WSK-SpecialEdition_2018.png)
-
+![](/images/gerbView_v04.png)
 
 ## Related Info on the 8Bit Mixtape
 
