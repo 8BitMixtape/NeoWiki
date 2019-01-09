@@ -48,7 +48,7 @@ Web: https://hackteria.org/wiki/Dusjagr
 ## 22. Jan @ Ljudmila, Ljubljana
 Tuesday, 17-23h 
 
-Location:
+Location: Slovenska Cesta 54
 
 
 # 8Bit Mixtape Special Edition 2019
