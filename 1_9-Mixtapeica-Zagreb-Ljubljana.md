@@ -46,9 +46,20 @@ Web: https://hackteria.org/wiki/Dusjagr
 
 
 ## 22. Jan @ Ljudmila, Ljubljana
-Tuesday, 17-23h 
+**DATUM:** 22. januar 2019 | 17.00 – 23.00 
+**MENTOR:** Marc Dusseiller
+**LOKACIJA:** osmo/za, Slovenska 54, 1000 Ljubljana 
+**PRIJAVE:** delavnica@ljudmila.org
 
-Location: Slovenska Cesta 54
+Na delavnici bodo udeleženci pod mentorstvom Marca Dusseillerja izdelali lasten 8Bit Mixtape NEO - lo-fi 8-bitni sintetizator - osnovan na z Arduinom kompatibilnem ATTINY85, ki ima vhod in izhod zvoka, 2 potenciometra, 2 tipki in 8 neodvisnih RGB Neo-pikslov. Odlika novega 8Bit Mixtape NEO je enostavno nalaganje programske kode z uporabo zvočnega protokola komunikacije, zgolj s predvajanjem .wav zvočne datoteke z računalnika, pametnega telefona ali predvajalnika kaset. 
+
+Delavnica bo potekala v angleščini. Število udeležencev je omejeno, zato se, prosimo, prijavite/najavite na delavnica@ljudmila.org. 
+
+Več: 
+https://wiki.ljudmila.org/8bit_Mixtape_NEO
+http://neo.8bitmixtape.cc/
+
+Dr. Marc R. Dusseiller je transdisciplinarni znanstvenik, predavatelj s področja mikro- in nanotehnologij in umetnik. Bil je so-organizator Dock18, Room for Mediacultures, KIBLIX 2011 (Maribor), kot takratni predsednik Swiss Mechatronic Art Society (2008-12) je vodil delavnice za umetnike, šole in otroke. Kot gostujoči mentor je sodeloval na različnih šolah: Srishti Institute of Art, Design and Technology (Indonezija), UCSB (ZDA) in v Švici: FHNW, HEAD, ETHZ. V sodelovanju z galerijo Kapelica je zagnal BioTehna Lab v Ljubljani (2012-13), odprto platformo za interdisciplinarno in umetniško raziskovanje na področju znanosti o življenju. Je soustanovitelj skupnostne platforme Hackteria | Open Source Biological Art. Bil je soorganizator različnih izdaj HackteriaLab med letoma 2010-14, prav tako je sodeloval pri organizaciji dogodkov Gathering for Open Science Hardware, GOSH! leta 2016 in 2018 ter BioFabbing Convergence leta 2017 v Ženevi. 
 
 
 # 8Bit Mixtape Special Edition 2019
