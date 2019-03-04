@@ -10,7 +10,7 @@ It’s the size of a cassette tape, has buttons and pots so you can play it as a
 
 * [http://cdm.link/2018/05/8bitmixtapeneo-hackable-glitch-synth-size-cassette-tape/](http://cdm.link/2018/05/8bitmixtapeneo-hackable-glitch-synth-size-cassette-tape/)
 
-# インドネシア生まれの「8bitMixtapeNeo」は遊び心むき出しのArduino互換チップチューンシンセサイザー
+### インドネシア生まれの「8bitMixtapeNeo」は遊び心むき出しのArduino互換チップチューンシンセサイザー
 
 Article in Makezine Japan Edition, August 2018. Text by Toshinao Ruike.
 
@@ -18,7 +18,7 @@ Article in Makezine Japan Edition, August 2018. Text by Toshinao Ruike.
 
 上の動画の通り、期待に違わないチープな出音。2個のノブとスイッチ、そして8個のフルカラーLED。ギラギラしたLEDはシンセサイザーとしての機能には関係なく、純粋にプログラムして光らせるだけのもの。チップへのデータ書き込みはUSB接続ではなく、CV入力端子にケーブルを繋げてオーディオ信号で行われる。
 
-* https://makezine.jp/blog/2018/07/8bitmixtape.html
+* [https://makezine.jp/blog/2018/07/8bitmixtape.html](https://makezine.jp/blog/2018/07/8bitmixtape.html)
 
 ### Synth Anatomy: 8Bit Mixtape NEO Is A DIY Synthesizer & Customizable Lo-Fi Electronic Music Instrument
 
