@@ -10,7 +10,7 @@ It’s the size of a cassette tape, has buttons and pots so you can play it as a
 
 * [http://cdm.link/2018/05/8bitmixtapeneo-hackable-glitch-synth-size-cassette-tape/](http://cdm.link/2018/05/8bitmixtapeneo-hackable-glitch-synth-size-cassette-tape/)
 
-### インドネシア生まれの「8bitMixtapeNeo」は遊び心むき出しのArduino互換チップチューンシンセサイザー
+### Makezine Japan: インドネシア生まれの「8bitMixtapeNeo」は遊び心むき出しのArduino互換チップチューンシンセサイザー
 
 Article in Makezine Japan Edition, August 2018. Text by Toshinao Ruike.
 
@@ -20,7 +20,7 @@ Article in Makezine Japan Edition, August 2018. Text by Toshinao Ruike.
 
 * [https://makezine.jp/blog/2018/07/8bitmixtape.html](https://makezine.jp/blog/2018/07/8bitmixtape.html)
 
-### Keyboards.de - 8Bit Mixtape NEO - Open Source Synth
+### Keyboards.de: 8Bit Mixtape NEO - Open Source Synth
 
 Open-Source ist eine geniale Sache: da entwickeln verschiedene Personen an einem Konzept, verbessern dieses immer wieder und andere Interessierte können sich daran beteiligen. Dafür ist das Ganze dann am Ende frei zugänglich und wie im Falle des Synthesizers 8Bit Mixtape Neo auch selbst nachbaubar.
 
