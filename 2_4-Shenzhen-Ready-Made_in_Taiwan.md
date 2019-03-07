@@ -90,7 +90,6 @@ websites
 
 * 8bitmixtape.github.io
 * Roboterclub-Freiburg.de
-* lifepatch.org
 
 Some japanese fonts: [http://www.akibatec.net/wabunfont/category/edo.html](http://www.akibatec.net/wabunfont/category/edo.html)
 
