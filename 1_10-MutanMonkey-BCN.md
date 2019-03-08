@@ -12,6 +12,13 @@ The 8Bit Mixtape NEO is a lo-fi 8Bit synthesizer based on the Arduino-compatible
 
 The 8Bit Mixtape NEO has been developed since Winter 2017 by dusjagr, ChrisMicro (RoboterClub Freiburg), Budi Prakosa and many other contributors! Since 2018 it's ready for sale as a DIY-Kit on our [new website](http://neo.8bitmixtape.cc/), or in the shop of MUTAN MONKEY, and many new [examples from community contributors](http://neo.8bitmixtape.cc/mixtape) are available.
 
+## Special Edition for Mutan Monkey
+
+![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/3d_mixtape_MutanMonkey.png)
+
+Find all files here:
+https://github.com/8BitMixtape/MutanMonkey_Mixtape3000
+
 ## Related Info on the 8Bit Mixtape
 
 Check-out what other people wrote about it:
