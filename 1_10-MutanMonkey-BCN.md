@@ -2,6 +2,10 @@
 
 # Saturday 23. March 2019
 
+## Impressions
+
+https://photos.app.goo.gl/LUGHSQkize2YY4pGA
+
 ## Description 
 
 Finally another build and code Workshop for making the famous 8Bit Mixtape NEO is happening in Barcelona, Spain! Join us for a session of soldering and experimenting with lo-fi 8Bit soundzzz and bluuurrrps.
